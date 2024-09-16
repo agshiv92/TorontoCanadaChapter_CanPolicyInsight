@@ -1,0 +1,519 @@
+Page 1 
+First Session, Forty-fourth Parliament,
+70-71 Elizabeth II – 1-2 Charles III, 2021-2022-2023
+STATUTES OF CANADA 2023
+CHAPTER 29
+An Act to amend the Canada Business
+Corporations Act and to make consequential
+and related amendments to other Acts
+ASSENTED TO
+NOVEMBER 2, 2023
+BILL C-42
+
+Page 2 
+SUMMARY
+This enactment amends the Canada Business Corporations Act
+to, among other things,
+(a) require the Director appointed under that Act to make
+available to the public certain information on individuals with
+significant control over a corporation;
+(b) protect the information and identity of certain individuals;
+(c) add, or broaden the application of, offences and provide
+the Director with additional enforcement and compliance
+powers; and
+(d) add regulatory authority to prescribe further require-
+ments in certain provisions.
+It also makes consequential and related amendments to other
+Acts.
+Available on the House of Commons website at the following address:
+www.ourcommons.ca
+2021-2022-2023
+
+Page 3 
+70-71 ELIZABETH II – 1-2 CHARLES III
+CHAPTER 29
+An Act to amend the Canada Business Corporations
+Act and to make consequential and related amend-
+ments to other Acts
+[Assented to 2nd November, 2023]
+His Majesty, by and with the advice and consent
+of the Senate and House of Commons of Canada,
+enacts as follows:
+R.S., c. C-44; 1994, c. 24, s. 1(F)
+Canada Business Corporations
+Act
+2018, c. 27, s. 183
+1 (1) Paragraph 21.1(1)(a) of the Canada Busi-
+ness Corporations Act is replaced by the follow-
+ing:
+(a) for each individual with significant control,
+(i) their name and date of birth,
+(ii) their residential address, and
+(iii) their address for service, if it has been provid-
+ed to the corporation;
+(a.1) the citizenship of each individual with signifi-
+cant control;
+2018, c. 27, s. 183
+(2) Subsection 21.1(2) of the Act is replaced by the
+following:
+Updating of information
+(2) The corporation shall, at the following times, take
+reasonable steps to ensure that it has identified all indi-
+viduals with significant control over the corporation and
+that the information in the register is accurate, complete
+and up-to-date:
+(a) at least once during each financial year of the cor-
+poration;
+2021-2022-2023
+
+Page 4 
+(b) on the request of the Director; and
+(c) at the times provided for in the regulations.
+2022, c. 10, s. 431
+2 (1) The portion of subsection 21.21(1) of the En-
+glish version of the Act before paragraph (a) is
+replaced by the following:
+Sending of information to Director
+21.21 (1) A corporation to which section 21.1 applies
+shall send to the Director
+2022, c. 10, s. 431
+(2) Paragraphs 21.21(1)(a) and (b) of the Act are
+replaced by the following:
+(a) on an annual basis, the information determined by
+the Director from among that in its register of individ-
+uals with significant control over the corporation, in
+the form and within the period that the Director fixes;
+and
+(b) the information determined by the Director from
+among that recorded under subsection 21.1(3), within
+15 days after the day on which it is recorded and in the
+form that the Director fixes.
+2022, c. 10, s. 431
+(3) Subsection 21.21(2) of the Act is replaced by
+the following:
+Sending of information — certificates issued
+(2) On or after the date shown on a certificate referred to
+in section 8 or subsection 185(4) or 187(4), a corporation
+to which section 21.1 applies shall send to the Director
+the information determined by the Director from among
+that referred to in paragraphs 21.1(1)(a) to (f), in the
+form and within the period that the Director fixes.
+(4) Section 21.21 of the Act is amended by adding
+the following after subsection (3):
+Offence
+(4) A corporation that, without reasonable cause, contra-
+venes subsection (1) or (2) is guilty of an offence and li-
+able on summary conviction to a fine not exceed-
+ing $100,000.
+2018, c. 27, s. 183
+3 Subsections 21.3(2) to (6) of the Act are re-
+pealed.
+2021-2022-2023
+Chapter 29: An Act to amend the Canada Business Corporations Act and to make
+consequential and related amendments to other Acts
+Canada Business Corporations Act
+Sections 1-3
+
+Page 5 
+4 The Act is amended by adding the following be-
+fore section 21.31:
+Provision of information by Director
+21.302 The Director may provide all or part of the infor-
+mation received under section 21.21 to a provincial cor-
+porate registry or a provincial government department or
+agency that is responsible for corporate law in that
+province.
+Information available to public
+21.303 (1) The Director shall make available to the
+public the following information sent to the Director un-
+der section 21.21 for each individual with significant con-
+trol:
+(a) their name;
+(b) their address for service, if it has been provided to
+the corporation;
+(c) their residential address, if their address for ser-
+vice has not been provided to the corporation;
+(d) the 
+information 
+referred 
+to 
+in 
+paragraphs
+21.1(1)(c) and (d); and
+(e) any other prescribed information.
+Exception
+(2) Subsection (1) does not apply in respect of an indi-
+vidual who is less than 18 years of age or an individual to
+whom prescribed circumstances apply.
+Exemption on application
+(3) If an individual with significant control or the corpo-
+ration over which they have significant control applies to
+the Director to have any information referred to in sub-
+section (1) in relation to the individual not made avail-
+able to the public, the Director may choose to not make it
+available to the public, subject to any terms that the Di-
+rector thinks fit,
+(a) if the Director reasonably believes that making it
+available presents or would present a serious threat to
+the safety of the individual; or
+(b) if the Director is satisfied that
+(i) the individual is incapable,
+(ii) the information is to be kept confidential under
+subsection 27(8) of the Conflict of Interest Act or a
+similar provision of an Act of the legislature of a
+province, or
+2021-2022-2023
+Chapter 29: An Act to amend the Canada Business Corporations Act and to make
+consequential and related amendments to other Acts
+Canada Business Corporations Act
+Section  
+4
+
+Page 6 
+(iii) prescribed circumstances apply to the individ-
+ual.
+2019, c. 29, s. 100
+5 (1) Subsection 21.4(1) of the Act is replaced by
+the following:
+Offence
+21.4 (1) Every director or officer of a corporation who
+knowingly authorizes, permits or acquiesces in the con-
+travention of subsection 21.1(1), 21.21(1) or (2), 21.3(1) or
+21.31(1) by that corporation commits an offence, whether
+or not the corporation has been prosecuted or convicted.
+(2) Subsection 21.4(5) of the Act is replaced by the
+following:
+Penalty
+(5) A person who commits an offence under any of sub-
+sections (1) to (4) is liable on summary conviction to a
+fine not exceeding one million dollars or to imprison-
+ment for a term not exceeding five years, or to both.
+2001, c. 14, s. 105(1)
+6 (1) Subparagraph 212(1)(a)(iii) of the Act is re-
+placed by the following:
+(iii) is in default for a period of one year in sending
+to the Director any fee or any notice, document or
+other information required by this Act, or
+2001, c. 14, s. 105(3)
+(2) Subsection 212(3.1) of the Act is replaced by
+the following:
+Payment of incorporation fee or sending of
+information
+(3.1) Despite anything in this section, the Director may
+dissolve a corporation by issuing a certificate of dissolu-
+tion if the required fee for the issuance of a certificate of
+incorporation has not been paid or if the corporation has
+not complied with subsection 21.21(2).
+7 Section 237 of the Act is replaced by the follow-
+ing:
+Inquiries
+237 (1) The Director may make inquiries of any person
+relating to compliance with this Act and may, as part of
+any inquiry, require the person to provide any records or
+other documents or information.
+2021-2022-2023
+Chapter 29: An Act to amend the Canada Business Corporations Act and to make
+consequential and related amendments to other Acts
+Canada Business Corporations Act
+Sections 4-7
+
+Page 7 
+Response
+(2) A person shall respond to any inquiry made under
+subsection (1).
+2001, c. 14, s. 124; 2018, c. 8, s. 36(1)
+8 (1) The portion of section 258.1 of the Act before
+paragraph (b) is replaced by the following:
+Content and form of documents
+258.1 The Director may establish the requirements for
+the content and fix the form, including electronic or oth-
+er forms, of notices, documents or other information sent
+to or issued by the Director under this Act and, in so do-
+ing, the Director may specify, among other things,
+(a) the notices, documents or other information that
+may be transmitted in electronic or other form;
+2018, c. 8, ss. 36(2) and (3)(E)
+(2) Paragraphs 258.1(b) and (c) of the English ver-
+sion of the Act are replaced by the following:
+(b) the persons or classes of persons who may sign or
+transmit the notices, documents or other information;
+(c) the manner of signing, whether electronic or oth-
+erwise, or the actions that are to have the same effect
+as their signature; and
+2018, c. 8, s. 36(4)(F)
+(3) Paragraph 258.1(d) of the Act is replaced by
+the following:
+(d) the time and circumstances when electronic no-
+tices, documents or other information are to be con-
+sidered to be sent or received, and the place where
+they are considered to have been sent or received.
+2001, c. 14, s. 135 (Sch., s. 85)(E)
+9 Subsection 259(1) of the Act is replaced by the
+following:
+Proof required by Director
+259 (1) The Director may require that a document or a
+fact stated in a document or in any information required
+by this Act or the regulations to be sent to the Director
+shall be verified in accordance with subsection (2).
+2021-2022-2023
+Chapter 29: An Act to amend the Canada Business Corporations Act and to make
+consequential and related amendments to other Acts
+Canada Business Corporations Act
+Sections 7-9
+
+Page 8 
+2018, c. 8, s. 38(2)
+10 Paragraph 261(1)(b) of the Act is replaced by
+the following:
+(a.2) prescribing what constitutes
+(i) for the purposes of paragraph 2.1(1)(b), direct
+influence, indirect influence or control in fact, and
+(ii) for the purposes of paragraph 21.31(3)(c), direct
+influence or indirect influence;
+(b) requiring the payment of a fee in respect of the re-
+ceipt, examination, filing, issuance or copying of any
+document or other information, or in respect of any
+action that the Director is required or authorized to
+take under this Act, and prescribing the amount of the
+fee or the manner of determining the fee;
+2018, c. 8, s. 39
+11 Section 261.1 of the Act is replaced by the fol-
+lowing:
+Payment of fees
+261.1 A fee in respect of the receipt or copying of any
+document or other information shall be paid to the Di-
+rector when it is received or copied, and a fee in respect
+of the examination, filing or issuance of any document or
+other information or in respect of any action that the Di-
+rector is required or authorized to take shall be paid to
+the Director before the document or other information is
+examined, filed or issued or the action is taken.
+2018, c. 8, s. 42
+12 Section 262.2 of the Act is replaced by the fol-
+lowing:
+Publication
+262.2 The Director must publish, in a publication gener-
+ally available to the public, a notice of any decision made
+by the Director granting an application made under sub-
+section 2(6), 10(2), 21.303(3), 82(3) or 151(1), section 156
+or subsection 171(2) or 187(11).
+2001, c. 14, s. 129
+13 (1) Paragraph 263.1(1)(a) of the Act is replaced
+by the following:
+(a) has sent to the Director a document or other infor-
+mation required to be sent under this Act;
+2021-2022-2023
+Chapter 29: An Act to amend the Canada Business Corporations Act and to make
+consequential and related amendments to other Acts
+Canada Business Corporations Act
+Sections 10-13
+
+Page 9 
+2001, c. 14, s. 129
+(2) Subsection 263.1(2) of the Act is replaced by
+the following:
+Director may refuse to issue certificate of existence
+(2) For greater certainty, the Director may refuse to issue
+a certificate described in paragraph (1)(c) if the Director
+has knowledge that the corporation is in default of send-
+ing a document or other information required to be sent
+under this Act or is in default of paying a required fee.
+2018, c. 8, s. 44
+14 Subsection 266(1) of the Act is replaced by the
+following:
+Examination
+266 (1) A person who has paid the required fee is enti-
+tled during usual business hours to examine and make
+copies of or take extracts from a document or other infor-
+mation — except an application referred to in subsection
+21.303(3) and any related document and a report sent to
+the Director under subsection 230(2) — that is required
+to be sent to the Director under this Act or that was re-
+quired to be sent to a person performing a similar func-
+tion under prior legislation.
+15 The Act is amended by adding the following
+after section 266:
+Information not to be made available
+266.1 (1) The Director shall not make available any in-
+formation that could reasonably be expected to reveal the
+identity of a person who, on their own initiative, provides
+information relating to the commission or potential com-
+mission of a wrongdoing, or any information provided by
+the person in relation to the commission or potential
+commission, unless the person providing the information
+consents to its being made available.
+Exception — investigations
+(2) Despite subsection (1), the Director may provide in-
+formation referred to in that subsection to an investiga-
+tive body referred to in subsection 21.31(2), the Financial
+Transactions and Reports Analysis Centre of Canada or
+any prescribed entity.
+Definition of wrongdoing
+(3) In this section, wrongdoing includes
+(a) a contravention of any provision of this Act or the
+regulations;
+2021-2022-2023
+Chapter 29: An Act to amend the Canada Business Corporations Act and to make
+consequential and related amendments to other Acts
+Canada Business Corporations Act
+Sections 13-15
+
+Page 10 
+(b) the formation of a corporation for a fraudulent or
+unlawful purpose; or
+(c) any fraudulent or dishonest actions of persons
+concerned with the formation, business or affairs of a
+corporation.
+Consequential and Related
+Amendments
+R.S., c. A-1
+Access to Information Act
+16 Schedule II to the Access to Information Act
+is amended by adding, in alphabetical order, a
+reference to
+Canada Business Corporations Act
+Loi canadienne sur les sociétés par actions
+and a corresponding reference to “subsection
+266.1(1)”.
+R.S., c. 1 (5th Supp.)
+Income Tax Act
+17 Subsection 241(4) of the Income Tax Act is
+amended by striking out “or” at the end of para-
+graph (s), by adding “or” at the end of paragraph
+(t) and by adding the following after paragraph
+(t):
+(u) provide to an official of the Department of Indus-
+try, solely for the purpose of verifying and validating
+the data required to be sent under section 21.21 of the
+Canada Business Corporations Act in respect of a pri-
+vate corporation (in this paragraph referred to as the
+“particular corporation”), the following information:
+(i) for each corporation (in this paragraph referred
+to as the “subject corporation”) that is related to or
+associated with the particular corporation in a taxa-
+tion year,
+(A) the name of the subject corporation,
+(B) the jurisdiction of residence of the subject
+corporation,
+(C) the business number of the subject corpora-
+tion,
+(D) the relationship between the particular cor-
+poration and the subject corporation,
+2021-2022-2023
+Chapter 29: An Act to amend the Canada Business Corporations Act and to make
+consequential and related amendments to other Acts
+Canada Business Corporations Act
+Sections 15-17
+
+Page 11 
+(E) the number of shares of each class of the
+capital stock of the subject corporation that are
+owned by the particular corporation, and
+(F) the percentage of all the issued and out-
+standing shares of each class of the capital stock
+of the subject corporation that are owned by the
+particular corporation,
+(ii) for each shareholder that holds at least 10% of
+any class of the capital stock of the particular cor-
+poration in a taxation year,
+(A) the name of the shareholder,
+(B) whether the shareholder is a corporation,
+partnership, individual or trust,
+(C) as the case may be, the shareholder’s
+(I) business number,
+(II) partnership account number,
+(III) social insurance number, or
+(IV) trust account number, and
+(D) the percentage of all the issued and out-
+standing shares of each class of the capital stock
+of the particular corporation that are owned by
+the shareholder, and
+(iii) the taxation year to which the information de-
+scribed in subparagraphs (i) and (ii) relates.
+2000, c. 17; 2001, c. 41, s. 48
+Proceeds of Crime (Money
+Laundering) and Terrorist Financing
+Act
+2017, c. 20, s. 434
+18 Paragraph 73(1)(c) of the Proceeds of Crime
+(Money Laundering) and Terrorist Financing
+Act is replaced by the following:
+(c) respecting the verification of the identity of per-
+sons and entities referred to in section 6.1 and requir-
+ing the reporting to government institutions or agen-
+cies of any discrepancies in information on the
+2021-2022-2023
+Chapter 29: An Act to amend the Canada Business Corporations Act and to make
+consequential and related amendments to other Acts
+Consequential and Related Amendments
+Income Tax Act
+Sections 17-18
+
+Page 12 
+beneficial ownership or control of an entity arising out
+of that verification;
+2022, c. 10
+Budget Implementation Act, 2022,
+No. 1
+19 Section 434 of the Budget Implementation
+Act, 2022, No. 1 is repealed.
+Coordinating Amendment
+2022, c. 10
+20 On the first day on which both section 433 of
+the Budget Implementation Act, 2022, No. 1 and
+section 14 of this Act are in force, section 266 of
+the Canada Business Corporations Act is re-
+placed by the following:
+Examination
+266 (1) A person who has paid the required fee is enti-
+tled during usual business hours to examine and make
+copies of or take extracts from a document or other infor-
+mation — except any information sent under section
+21.21, an application referred to in subsection 21.303(3)
+and any related document and a report sent to the Direc-
+tor under subsection 230(2) — that is required to be sent
+to the Director under this Act or that was required to be
+sent to a person performing a similar function under pri-
+or legislation.
+Copies or extracts
+(2) The Director shall, on request, provide any person
+with a copy, extract, certified copy or certified extract of a
+document that may be examined under subsection (1).
+Coming into Force
+Order in council
+21 (1) Subject to subsections (2) and (3), the pro-
+visions of this Act, other than section 20, come in-
+to force on a day or days to be fixed by order of
+the Governor in Council, but that day or those
+days must not be before the day on which section
+1 comes into force.
+2021-2022-2023
+Chapter 29: An Act to amend the Canada Business Corporations Act and to make
+consequential and related amendments to other Acts
+Consequential and Related Amendments
+Proceeds of Crime (Money Laundering) and Terrorist Financing Act
+Sections 18-21
+
+Page 13 
+Order in council
+(2) Sections 1 and 19 come into force on a day or
+days to be fixed by order of the Governor in
+Council.
+Order in council
+(3) Sections 2, 4 to 6 and 17 come into force on a
+day to be fixed by order of the Governor in Coun-
+cil, but that day must not be before the day on
+which section 431 of the Budget Implementation
+Act, 2022, No. 1 comes into force.
+Published under authority of the Speaker of the House of Commons
+2021-2022-2023
+Chapter 29: An Act to amend the Canada Business Corporations Act and to make
+consequential and related amendments to other Acts
+Coming into Force
+Section  
+21
+
+Page 14 
+Available on the House of Commons website
+Disponible sur le site Web de la Chambre des com
+

@@ -1,0 +1,316 @@
+Page 1 
+First Session, Forty-fourth Parliament,
+70 Elizabeth II, 2021
+STATUTES OF CANADA 2021
+CHAPTER 27
+An Act to amend the Criminal Code and the
+Canada Labour Code
+ASSENTED TO
+DECEMBER 17, 2021
+BILL C-3
+
+Page 2 
+SUMMARY
+This enactment amends the Criminal Code to, among other
+things,
+(a) create an offence of intimidating a person in order to im-
+pede them from obtaining health services, intimidating a
+health professional in order to impede them in the perfor-
+mance of their duties or intimidating a person who assists a
+health professional in order to impede the person in provid-
+ing that assistance;
+(b) create an offence of obstructing or interfering with a per-
+son’s lawful access to a place at which health services are
+provided, subject to a defence of attending at the place for
+the purpose only of obtaining or communicating information;
+and
+(c) add the commission of an offence against a person who
+was providing health services and the commission of an of-
+fence that had the effect of impeding another person from
+obtaining health services as aggravating sentencing factors
+for any offence.
+It also amends the Canada Labour Code to, among other things,
+(a) extend the period during which an employee may take a
+leave of absence from employment in the event of the death
+of a child and provide for the entitlement of an employee to a
+leave of absence in the event of the loss of an unborn child;
+(b) repeal the personal leave that an employee may take to
+treat their illness or injury;
+(c) provide that an employee may earn and take up to
+10 days of medical leave of absence with pay in a calendar
+year; and
+(d) authorize the Governor in Council to make regulations to
+modify, in certain circumstances, the provisions respecting
+medical leave of absence with pay.
+Available on the House of Commons website at the following address:
+www.ourcommons.ca
+2021
+
+Page 3 
+70 ELIZABETH II
+CHAPTER 27
+An Act to amend the Criminal Code and the Canada
+Labour Code
+[Assented to 17th December, 2021]
+Her Majesty, by and with the advice and consent of
+the Senate and House of Commons of Canada,
+enacts as follows:
+R.S., c. C-46
+Criminal Code
+1 Paragraph (a) of the definition offence in sec-
+tion 183 of the Criminal Code is amended by
+adding the following after subparagraph (lxxi):
+(lxxi.1) section 423.2 (intimidation — health ser-
+vices),
+2 The Act is amended by adding the following af-
+ter section 423.1:
+Intimidation — health services
+423.2 (1) Every person commits an offence who en-
+gages in any conduct with the intent to provoke a state of
+fear in
+(a) a person in order to impede them from obtaining
+health services from a health professional;
+(b) a health professional in order to impede them in
+the performance of their duties; or
+(c) a person, whose functions are to assist a health
+professional in the performance of the health profes-
+sional’s duties, in order to impede that person in the
+performance of those functions.
+Obstruction or interference with access
+(2) Every person commits an offence who, without lawful
+authority, intentionally obstructs or interferes with an-
+other person’s lawful access to a place at which health
+services are provided by a health professional.
+2021
+
+Page 4 
+Punishment
+(3) Every person who commits an offence under subsec-
+tion (1) or (2) is
+(a) guilty of an indictable offence and liable to impris-
+onment for a term of not more than 10 years; or
+(b) guilty of an offence punishable on summary con-
+viction.
+Defence
+(4) No person is guilty of an offence under subsection (2)
+by reason only that they attend at or near, or approach, a
+place referred to in that subsection for the purpose only
+of obtaining or communicating information.
+Definition of health professional
+(5) In this section, health professional means a person
+who is entitled under the laws of a province to provide
+health services.
+3 Paragraph (c) of the definition secondary desig-
+nated offence in section 487.04 of the Act is amend-
+ed by adding the following after subpara-
+graph (xi):
+(xi.01) subsection 423.2(1) (intimidation — health
+services),
+4 (1) Subsection 515(4.1) of the Act is amended by
+adding the following after paragraph (b.1):
+ 
+(b.11) an offence under subsection 423.2(1) (intimida-
+tion — health services),
+2021
+Chapter 27: An Act to amend the Criminal Code and the Canada Labour Code
+Criminal Code
+Sections 2-4
+
+Page 5 
+(2) Paragraph 515(4.3)(b) of the Act is replaced by
+the following:
+(b) an offence described in section 264 or 423.1 or sub-
+section 423.2(1);
+5 (1) Paragraph 718.2(a) of the Act is amended by
+adding the following after subparagraph (iii.1):
+(iii.2) evidence that the offence was committed
+against a person who, in the performance of their
+duties and functions, was providing health services,
+including personal care services,
+(2) Paragraph 718.2(a) of the Act is amended by
+striking out “or” at the end of subparagraph (v),
+by adding “and” at the end of subparagraph (vi)
+and by adding the following after subpara-
+graph (vi):
+(vii) evidence that the commission of the offence
+had the effect of impeding another person from ob-
+taining health services, including personal care ser-
+vices,
+R.S., c. L-2
+Canada Labour Code
+6 Paragraph 206.6(1)(a) of the Canada Labour
+Code is repealed.
+6.1 Subsection 210(1) of the Act is replaced by the
+following:
+Employee entitled
+210 (1) Except when subsection (1.01) or (1.02) applies,
+every employee is entitled to and shall be granted, in the
+event of the death of a member of their immediate family
+or a family member in respect of whom the employee is,
+at the time of the death, on leave under section 206.3 or
+206.4, a leave of absence from employment of up to 10
+days that may be taken during the period that begins on
+the day on which the death occurs and ends six weeks af-
+ter the latest of the days on which any funeral, burial or
+memorial service of that deceased person occurs.
+Employee entitled — child
+(1.01) Every employee is entitled to and shall be grant-
+ed, in the event of the death of a child of the employee or
+the death of a child of their spouse or common-law
+2021
+Chapter 27: An Act to amend the Criminal Code and the Canada Labour Code
+Criminal Code
+Sections 4-6.1
+
+Page 6 
+partner, a leave of absence from employment of up to
+eight weeks that may be taken during the period that be-
+gins on the day on which the death occurs and ends 12
+weeks after the latest of the days on which any funeral,
+burial or memorial service of the child occurs.
+Employee entitled — stillbirth
+(1.02) Every employee is entitled to and shall be grant-
+ed, in the event of a stillbirth experienced by them or
+their spouse or common-law partner or where they
+would have been a parent, as defined in subsection
+206.7(1), of the child born as a result of the pregnancy, a
+leave of absence from employment of up to eight weeks
+that may be taken during the period that begins on the
+day on which the stillbirth occurs and ends 12 weeks after
+the latest of the days on which any funeral, burial or
+memorial service in respect of the stillbirth occurs.
+Definitions
+(1.03) The following definitions apply in subsections
+(1.01) and (1.02).
+child means
+(a) a person who is under 18 years of age; or
+(b) a person in respect of whom the employee or their
+spouse or common-law partner, as the case may be, is
+entitled to the Canada caregiver credit under para-
+graph 118(1)(d) of the Income Tax Act. (enfant)
+stillbirth means the complete expulsion or extraction of
+a fetus from a person on or after the twentieth week of
+pregnancy or after the fetus has attained at least 500 g,
+without any breathing, beating of the heart, pulsation of
+the umbilical cord or movement of voluntary muscle
+from the fetus after the expulsion or extraction. (morti-
+naissance)
+7 (1) Subsection 239(2) of the Act is replaced by
+the following:
+Leave with pay
+(1.2) An employee earns,
+(a) in the case of an employee whose employment
+with an employer begins on or before the day on which
+this subsection comes into force, in the calendar year
+in which this subsection comes into force, after com-
+pleting 30 days of continuous employment with the
+employer, three days of medical leave of absence with
+pay and, after 60 days of continuous employment with
+the employer, at the beginning of each month after
+completing one month of continuous employment
+2021
+Chapter 27: An Act to amend the Criminal Code and the Canada Labour Code
+Canada Labour Code
+Sections 6.1-7
+
+Page 7 
+with the employer, one day of medical leave of absence
+with pay, up to a maximum of 10 days;
+(b) in the case of an employee whose employment
+with an employer begins after the day on which this
+subsection comes into force, in the calendar year dur-
+ing which they were employed, after completing 30
+days of continuous employment with the employer,
+three days of medical leave of absence with pay and,
+after 60 days of continuous employment with the em-
+ployer, at the beginning of each month after complet-
+ing one month of continuous employment with the
+employer, one day of medical leave of absence with
+pay, up to a maximum of 10 days; and
+(c) in each subsequent calendar year, at the beginning
+of each month after completing one month of continu-
+ous employment with the employer, one day of medi-
+cal leave of absence with pay, up to a maximum of 10
+days.
+Rate of wages
+(1.3) Each day of medical leave of absence with pay that
+an employee takes must be paid at their regular rate of
+wages for their normal hours of work, and that pay is for
+all purposes considered to be wages.
+Annual carry forward
+(1.4) Each day of medical leave of absence with pay that
+an employee does not take in a calendar year is to be car-
+ried forward to January 1 of the following calendar year
+and decreases, by one, the maximum number of days
+that can be earned in that calendar year under subsec-
+tion (1.2).
+Division of leave with pay
+(1.5) The medical leave of absence with pay may be tak-
+en in one or more periods. The employer may require
+that each period of leave be of not less than one day’s du-
+ration.
+Certificate — leave with pay
+(1.6) The employer may, in writing and no later than
+15 days after the return to work of an employee who has
+taken a medical leave of absence with pay of at least five
+consecutive days, require the employee to provide a cer-
+tificate issued by a health care practitioner certifying that
+the employee was incapable of working for the period of
+their medical leave of absence with pay.
+Certificate — leave without pay
+(2) If a medical leave of absence without pay is three
+days or longer, the employer may require that the em-
+ployee provide a certificate issued by a health care
+2021
+Chapter 27: An Act to amend the Criminal Code and the Canada Labour Code
+Canada Labour Code
+Section  
+7
+
+Page 8 
+practitioner certifying that the employee was incapable of
+working for the period of their medical leave of absence
+without pay.
+(2) Subsection 239(13) of the Act is replaced by the
+following:
+Regulations
+(13) The Governor in Council may make regulations
+(a) defining terms for the purposes of this Division,
+including “regular rate of wages” and “normal hours of
+work”; and
+(b) modifying any provision of this Division respect-
+ing the medical leave of absence with pay for the pur-
+poses of applying this Division to any class of employ-
+ees if, in the opinion of the Governor in Council,
+(i) the application of the provision without the
+modification would be unreasonable or inequitable
+in respect of the employees in that class or their
+employers, due to the work practices of that class,
+and
+(ii) those employees will, despite the modification,
+earn periods of medical leave of absence with pay at
+a rate that is substantially equivalent to the rate
+provided for in subsection (1.2).
+Coming into Force
+30th day after royal assent
+8 (1) Sections 1 to 5 come into force on the 30th
+day after the day on which this Act receives royal
+assent.
+Order in council
+(2) Sections 6 and 7 come into force on a day to be
+fixed by order of the Governor in Council.
+Order in council
+(3) Section 6.1 comes into force on a day to be
+fixed by order of the Governor in Council.
+Published under authority of the Speaker of the House of Commons
+2021
+Chapter 27: An Act to amend the Criminal Code and the Canada Labour Code
+Canada Labour Code
+Sections 7-8
+
+Page 9 
+
+Page 10 
+Available on the House of Commons website
+Disponible sur le site Web de la Chambre des com
+

@@ -1,0 +1,2393 @@
+Page 1 
+First Session, Forty-fourth Parliament,
+70-71 Elizabeth II – 1-2 Charles III, 2021-2022-2023
+STATUTES OF CANADA 2023
+CHAPTER 28
+An Act to amend the Criminal Code, the Sex
+Offender Information Registration Act and
+the International Transfer of Offenders Act
+ASSENTED TO
+OCTOBER 26, 2023
+BILL S-12
+
+Page 2 
+SUMMARY
+This enactment amends the Criminal Code, the Sex Offender In-
+formation Registration Act and the International Transfer of Of-
+fenders Act to, among other things,
+(a) require compliance with the Sex Offender Information
+Registration Act for persons who are convicted of an offence
+of a sexual nature against a child and for persons who have
+been convicted on separate occasions of two or more of-
+fences of a sexual nature;
+(b) require other persons who are convicted of, or receive a
+verdict of not criminally responsible on account of mental
+disorder for, an offence of a sexual nature to comply with that
+Act unless a court is satisfied that doing so would have no
+connection to the purposes of that Act or that the impact on
+the person of doing so would be grossly disproportionate to
+those purposes;
+(c) provide that an order to comply with that Act as a result
+of convictions, or verdicts of not criminally responsible on ac-
+count of mental disorder, for two or more offences of a sexu-
+al nature that are dealt with in the same proceeding — or an
+obligation to comply with that Act as a result of convictions,
+or such verdicts, for two or more offences of a sexual nature
+— does not apply for life if a court is satisfied that the of-
+fences do not demonstrate a pattern of behaviour showing
+that the person presents an increased risk of reoffending by
+committing such an offence;
+(d) authorize a peace officer to obtain a warrant to arrest a
+person who has contravened any of sections 4 to 5.1 of that
+Act and bring them to a registration centre to remedy that
+contravention; and
+(e) clarify the obligations in section 6 of that Act respecting
+the notice that sex offenders who plan to absent themselves
+from their residence must provide.
+The enactment also amends the Criminal Code to, among other
+things, codify the process for modifying and revoking publica-
+tion bans, and add a requirement for sentencing courts to in-
+quire into whether the victim of an offence would like to receive
+information about the administration of the offender’s sentence
+and, in the affirmative, provide the Correctional Service of
+Canada with the victim’s contact information.
+Available on the Senate of Canada website at the following address:
+www.sencanada.ca/en
+2021-2022-2023
+
+Page 3 
+70-71 ELIZABETH II – 1-2 CHARLES III
+CHAPTER 28
+An Act to amend the Criminal Code, the Sex Offender
+Information Registration Act and the International
+Transfer of Offenders Act
+[Assented to 26th October, 2023]
+His Majesty, by and with the advice and consent of
+the Senate and House of Commons of Canada,
+enacts as follows:
+R.S., c. C-46
+Criminal Code
+1 Paragraph 153.1(1)(a) of the Criminal Code is
+replaced by the following:
+(a) an indictable offence and liable to imprisonment
+for a term not exceeding 10 years; or
+2 (1) Subparagraph 486.4(1)(a)(i) of the Act is re-
+placed by the following:
+(i) an offence under section 151, 152, 153, 153.1,
+155, 160, 162, 162.1, 163.1, 170, 171, 171.1, 172, 172.1,
+172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02,
+279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(2) Paragraph 486.4(2)(a) of the Act is replaced by
+the following:
+(a) as soon as feasible, inform any witness under the
+age of 18 years and the victim of the right to make an
+application for the order;
+(3) Subsection 486.4(2) of the Act is amended by
+adding “and” at the end of paragraph (b) and by
+adding the following after that paragraph:
+(c) if an order is made, as soon as feasible, inform the
+witnesses and the victim who are the subject of that
+order of its existence and of their right to apply to re-
+voke or vary it.
+2021-2022-2023
+
+Page 4 
+(4) Subsection 486.4(2.2) of the Act is amended by
+striking out “and” at the end of paragraph (a), by
+adding “and” at the end of paragraph (b) and by
+adding the following after paragraph (b):
+(c) if an order is made, as soon as feasible, inform the
+victim of the existence of the order and of their right to
+apply to revoke or vary it.
+(5) Subsection 486.4(4) of the Act is replaced by
+the following:
+Inquiry by court
+(3.1) If the prosecutor makes an application for an order
+under paragraph (2)(b) or (2.2)(b), the presiding judge or
+justice shall
+(a) if the victim or witness is present, inquire of the
+victim or witness if they wish to be the subject of the
+order;
+(b) if the victim or witness is not present, inquire of
+the prosecutor if, before the application was made,
+they determined if the victim or witness wishes to be
+the subject of the order; and
+(c) in any event, advise the prosecutor of their duty
+under subsection (3.2).
+Duty to inform
+(3.2) If the prosecutor makes the application, they shall,
+as soon as feasible after the presiding judge or justice
+makes the order, inform the judge or justice that they
+have
+(a) informed the witnesses and the victim who are the
+subject of the order of its existence;
+(b) determined whether they wish to be the subject of
+the order; and
+(c) informed them of their right to apply to revoke or
+vary the order.
+Limitation
+(4) An order made under this section does not apply in
+either of the following circumstances:
+(a) the disclosure of information is made in the course
+of the administration of justice when the purpose of
+the disclosure is not one of making the information
+known in the community; or
+(b) the disclosure of information is made by a person
+who is the subject of the order and is about that
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+2
+
+Page 5 
+person and their particulars, in any forum and for any
+purpose, and they did not intentionally or recklessly
+reveal the identity of or reveal particulars likely to
+identify any other person whose identity is protected
+by an order prohibiting the publication in any docu-
+ment or the broadcasting or transmission in any way
+of information that could identify that other person.
+(6) Section 486.4 of the Act is amended by adding
+the following after subsection (4):
+Limitation — victim or witness
+(5) An order made under this section does not apply in
+respect of the disclosure of information by the victim or
+witness when it is not the purpose of the disclosure to
+make the information known to the public, including
+when the disclosure is made to a legal professional, a
+health care professional or a person in a relationship of
+trust with the victim or witness.
+3 (1) Subsection 486.5(3) of the Act is replaced
+with the following:
+Limitation
+(3) An order made under this section does not apply in
+either of the following circumstances:
+(a) the disclosure of information is made in the course
+of the administration of justice when the purpose of
+the disclosure is not one of making the information
+known in the community; or
+(b) the disclosure of information is made by a person
+who is the subject of the order and is about that per-
+son and their particulars, in any forum and for any
+purpose, and they did not intentionally or recklessly
+reveal the identity of or reveal particulars likely to
+identify any other person whose identity is protected
+by an order prohibiting the publication in any docu-
+ment or the broadcasting or transmission in any way
+of information that could identify that other person.
+Limitation — victim, etc.
+(3.1) An order made under this section does not apply in
+respect of the disclosure of information by the victim,
+witness or justice system participant when it is not the
+purpose of the disclosure to make the information known
+to the public, including when the disclosure is made to a
+legal professional, a health care professional or a person
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 2-3
+
+Page 6 
+in a relationship of trust with the victim, or witness or
+justice system participant.
+(2) Section 486.5 of the Act is amended by adding
+the following after subsection (5):
+Duties — judge or justice
+(5.1) If the prosecutor makes an application for an order
+under subsection (1) or (2), the judge or justice shall
+(a) if the victim, witness or justice system participant
+is present, inquire of them if they wish to be the sub-
+ject of the order;
+(b) if the victim, witness or justice system participant
+is not present, inquire of the prosecutor if, before the
+application was made, they determined whether the
+victim, witness or justice system participant wishes to
+be the subject of the order; and
+(c) in any event, advise the prosecutor of their duty
+under subsection (8.2).
+(3) Section 486.5 of the Act is amended by adding
+the following after subsection (8):
+Supplementary duty — judge or justice
+(8.1) If an order is made, the judge or justice shall, as
+soon as feasible, inform the victims, witnesses and justice
+system participants who are the subject of that order of
+its existence and of their right to apply to revoke or vary
+it.
+Duty to inform
+(8.2) If the prosecutor makes the application, they shall,
+as soon as feasible after the judge or justice makes the or-
+der, inform the judge or justice that they have
+(a) informed the victims, witnesses and justice system
+participants who are the subject of the order of its ex-
+istence;
+(b) determined whether they wish to be the subject of
+the order; and
+(c) informed them of their right to apply to revoke or
+vary the order.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+3
+
+Page 7 
+4 The Act is amended by adding the following af-
+ter section 486.5:
+Application — vary or revoke
+486.51 (1) If a person who is the subject of an order
+made under section 486.4 or 486.5 requests that the pros-
+ecutor have it varied or revoked, the prosecutor shall, as
+soon as feasible, make an application to vary or revoke
+the order on their behalf.
+Order — vary or revoke
+(2) If an application to vary or revoke an order made un-
+der section 486.4 or 486.5 is made by the person who is
+the subject of the order or by any other person, including
+a prosecutor, who is acting on their behalf, the court that
+made the order or, if that court is for any reason unable
+to act, another court of equivalent jurisdiction in the
+same province shall, without holding a hearing, vary or
+revoke the order, unless the court is of the opinion that to
+do so may affect the privacy interests of any person who
+is the subject of any order prohibiting the publication in
+any document or the broadcasting or transmission in any
+way of information that could identify that person.
+Hearing
+(3) If the court is of the opinion that varying or revoking
+the order that is the subject of an application referred to
+in subsection (2) may affect the privacy interests of any
+person who is the subject of any order prohibiting the
+publication in any document or the broadcasting or
+transmission in any way of information that could identi-
+fy that person, the court shall hold a hearing to deter-
+mine whether the order should be varied or revoked.
+Factor
+(4) In order to determine whether the order should be
+varied, the court shall take into account whether it is pos-
+sible to do so in a manner that protects the privacy inter-
+ests of any other person who is the subject of any order
+prohibiting the publication in any document or the
+broadcasting or transmission in any way of information
+that could identify that person.
+Notice
+(5) The applicant is not required to provide notice of the
+application to vary or revoke the order to the accused.
+Submissions
+(6) The accused shall not be permitted to make submis-
+sions in relation to the application.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+4
+
+Page 8 
+Notice of change
+(7) If the order is varied or revoked, the prosecutor shall
+notify the accused.
+5 Section 486.6 of the Act is amended by adding
+the following after subsection (1):
+Prosecution — limitation
+(1.1) A prosecutor shall not commence or continue a
+prosecution against a person who is the subject of the or-
+der unless, in the opinion of the prosecutor,
+(a) the person knowingly failed to comply with the or-
+der;
+(b) the privacy interests of another person who is the
+subject of any order prohibiting the publication in any
+document or the broadcasting or transmission in any
+way of information that could identify that person
+have been compromised; and
+(c) a warning to the individual is not appropriate.
+6 (1) The portion of subsection 490.011(1) of the
+Act before the definition crime of a sexual nature is
+replaced by the following:
+Definitions
+490.011 (1) The following definitions apply in this sec-
+tion and in sections 490.012 to 490.07.
+(2) The definition designated offence in subsec-
+tion 490.011(1) of the Act is replaced by the follow-
+ing:
+designated offence means a primary offence or a sec-
+ondary offence.  (infraction désignée)
+(3) Subsection 490.011(1) of the Act is amended by
+adding the following in alphabetical order:
+primary offence means
+(a) an offence under any of the following provisions:
+(i) subsection 7(4.1) (offence in relation to sexual
+offences against children),
+(ii) section 151 (sexual interference),
+(iii) section 152 (invitation to sexual touching),
+(iv) section 153 (sexual exploitation),
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 4-6
+
+Page 9 
+(v) section 153.1 (sexual exploitation of person with
+disability),
+(vi) section 155 (incest),
+(vii) subsection 160(1) (bestiality),
+(viii) subsection 160(2) (compelling the commis-
+sion of bestiality),
+(ix) subsection 160(3) (bestiality in presence of or
+by a child),
+(x) section 162.1 (publication, etc., of an intimate
+image without consent),
+(xi) section 163.1 (child pornography),
+(xii) section 170 (parent or guardian procuring sex-
+ual activity),
+(xiii) section 171.1 (making sexually explicit mate-
+rial available to child),
+(xiv) section 172.1 (luring a child),
+(xv) section 172.2 (agreement or arrangement —
+sexual offence against child),
+(xvi) subsection 173(2) (exposure),
+(xvii) section 271 (sexual assault),
+(xviii) section 272 (sexual assault with a weapon,
+threats to a third party or causing bodily harm),
+(xix) section 273 (aggravated sexual assault),
+(xx) subsection 273.3(2) (removal of a child from
+Canada),
+(xxi) section 279.011 (trafficking  —  person under
+18 years),
+(xxii) subsection 279.02(2) (material benefit  —
+trafficking of person under 18 years),
+(xxiii) subsection 279.03(2) (withholding or de-
+stroying documents  —  trafficking of person under
+18 years),
+(xxiv) subsection 286.1(2) (obtaining sexual ser-
+vices for consideration from person under 18
+years),
+(xxv) subsection 286.2(2) (material benefit from
+sexual services provided by person under 18 years),
+and
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+6
+
+Page 10 
+(xxvi) subsection 286.3(2) (procuring  — person un-
+der 18 years);
+(b) an offence under any of the following provisions of
+the Criminal Code, chapter C-34 of the Revised
+Statutes of Canada, 1970, as they read from time to
+time before January 4, 1983:
+(i) section 144 (rape),
+(ii) section 145 (attempt to commit rape),
+(iii) section 149 (indecent assault on female),
+(iv) section 156 (indecent assault on male), and
+(v) subsection 246(1) (assault with intent) if the in-
+tent is to commit an offence referred to in any of
+subparagraphs (i) to (iv);
+(c) an offence under any of the following provisions of
+the Criminal Code, chapter C-34 of the Revised
+Statutes of Canada, 1970, as enacted by section 19 of
+An Act to amend the Criminal Code in relation to sex-
+ual offences and other offences against the person
+and to amend certain other Acts in relation thereto or
+in consequence thereof, chapter 125 of the Statutes of
+Canada, 1980-81-82-83:
+(i) section 246.1 (sexual assault),
+(ii) section 246.2 (sexual assault with a weapon,
+threats to a third party or causing bodily harm),
+and
+(iii) section 246.3 (aggravated sexual assault);
+(d) an offence under any of the following provisions of
+the Criminal Code, chapter C-34 of the Revised
+Statutes of Canada, 1970, as they read from time to
+time before January 1, 1988:
+(i) subsection 146(1) (sexual intercourse with a fe-
+male under age of fourteen),
+(ii) subsection 146(2) (sexual intercourse with a fe-
+male between ages of fourteen and sixteen),
+(iii) section 153 (sexual intercourse with step-
+daughter),
+(iv) section 157 (gross indecency),
+(v) section 166 (parent or guardian procuring de-
+filement), and
+(vi) section 167 (householder permitting defile-
+ment);
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+6
+
+Page 11 
+(e) an offence under any of the following provisions of
+this Act, as they read from time to time before Decem-
+ber 6, 2014 :
+(i) paragraph 212(1)(i) (stupefying or overpowering
+for the purpose of sexual intercourse),
+(ii) subsection 212(2) (living on the avails of prosti-
+tution of person under 18 years),
+(iii) subsection 212(2.1) (aggravated offence in rela-
+tion to living on the avails of prostitution of person
+under 18 years), and
+(iv) subsection 212(4) (prostitution of person under
+18 years); or
+(f) an attempt or conspiracy to commit an offence re-
+ferred to in any of paragraphs (a) to (e).  (infraction
+primaire)
+secondary offence means
+(a) an offence under any of the following provisions:
+(i) section 162 (voyeurism),
+(ii) subsection 173(1) (indecent acts),
+(iii) section 177 (trespassing at night),
+(iv) section 231 (murder),
+(v) section 234 (manslaughter),
+(vi) paragraph 245(1)(a) (administering noxious
+thing with intent to endanger life or cause bodily
+harm),
+(vii) paragraph 245(1)(b) (administering noxious
+thing with intent to aggrieve or annoy),
+(viii) section 246 (overcoming resistance to com-
+mission of offence),
+(ix) section 264 (criminal harassment),
+(x) section 279 (kidnapping),
+(xi) section 279.01 (trafficking in persons),
+(xii) subsection 279.02(1) (material benefit  —  traf-
+ficking),
+(xiii) subsection 279.03(1) (withholding or destroy-
+ing documents  —  trafficking),
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+6
+
+Page 12 
+(xiv) section 280 (abduction of a person under age
+of sixteen),
+(xv) section 281 (abduction of a person under age
+of fourteen),
+(xvi) subsection 286.1(1) (obtaining sexual services
+for consideration),
+(xvii) subsection 286.2(1) (material benefit from
+sexual services),
+(xviii) subsection 286.3(1) (procuring),
+(xix) section 346 (extortion),
+(xx) paragraph 348(1)(d) (breaking and entering a
+dwelling house with intent to commit an indictable
+offence),
+(xxi) paragraph 348(1)(d) (breaking and entering a
+dwelling house and committing an indictable of-
+fence),
+(xxii) paragraph 348(1)(e) (breaking and entering a
+place other than a dwelling house with intent to
+commit an indictable offence), and
+(xxiii) paragraph 348(1)(e) (breaking and entering
+a place other than a dwelling house and committing
+an indictable offence); or
+(b) an attempt or conspiracy to commit an offence re-
+ferred to in paragraph (a). (infraction secondaire)
+7 Section 490.012 of the Act is replaced by the fol-
+lowing:
+Order
+490.012 (1) Subject to subsection (5), when a court im-
+poses a sentence on a person for a designated offence, it
+shall make an order in Form 52 requiring the person to
+comply with the Sex Offender Information Registration
+Act if
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 6-7
+
+Page 13 
+(a) the designated offence was prosecuted by indict-
+ment;
+(b) the sentence for the designated offence is a term of
+imprisonment of two years or more; and
+(c) the victim of the designated offence is under the
+age of 18 years.
+Order — previous offence or obligation
+(2) Subject to subsection (5), when a court imposes a
+sentence on a person for a designated offence, it shall
+make an order in Form 52 requiring the person to comply
+with the Sex Offender Information Registration Act if
+the prosecutor establishes that, before or after the com-
+ing into force of paragraphs (a) and (b), the person
+(a) was previously convicted of a primary offence or
+previously convicted under section 130 of the National
+Defence Act in respect of a primary offence; or
+(b) is or was, as a result of a conviction, subject to an
+order or obligation under this or another Act of Parlia-
+ment to comply with the Sex Offender Information
+Registration Act.
+Order — other circumstances
+(3) Subject to subsection (5), when a court imposes a
+sentence on a person for a designated offence in circum-
+stances in which neither subsection (1) nor (2) applies, or
+when the court renders a verdict of not criminally re-
+sponsible on account of mental disorder for a designated
+offence, it shall make an order in Form 52 requiring the
+person to comply with the Sex Offender Information
+Registration Act unless the court is satisfied the person
+has established that
+(a) there would be no connection between making the
+order and the purpose of helping police services pre-
+vent or investigate crimes of a sexual nature by requir-
+ing the registration of information relating to sex of-
+fenders under that Act; or
+(b) the impact of the order on the person, including
+on their privacy or liberty, would be grossly dispropor-
+tionate to the public interest in protecting society
+through the effective prevention or investigation of
+crimes of a sexual nature, to be achieved by the regis-
+tration of information relating to sex offenders under
+that Act.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+7
+
+Page 14 
+Factors
+(4) In determining whether to make an order under sub-
+section (3) in respect of a person, the court shall consider
+(a) the nature and seriousness of the designated of-
+fence;
+(b) the victim’s age and other personal characteristics;
+(c) the nature and circumstances of the relationship
+between the person and the victim;
+(d) the personal characteristics and circumstances of
+the person;
+(e) the person’s criminal history, including the age at
+which they previously committed any offence and the
+length of time for which they have been at liberty
+without committing an offence;
+(f) the opinions of experts who have examined the
+person; and
+(g) any other factors that the court considers relevant.
+Limitation — secondary offences
+(5) A court shall make an order under any of subsections
+(1) to (3) in respect of a secondary offence only if the
+prosecutor applies for the order and establishes beyond a
+reasonable doubt that the person committed the sec-
+ondary offence with the intent to commit a primary of-
+fence.
+8 (1) The portion of subsection 490.013(2) of the
+Act before paragraph (c) is replaced by the fol-
+lowing:
+Duration of order — s. 490.012(1) or (3)
+(2) An order made under subsection 490.012(1) or (3)
+(a) subject to subsections (3) and (5), ends 10 years af-
+ter it was made if the offence in connection with which
+it was made was prosecuted summarily or if the maxi-
+mum term of imprisonment for the offence is two or
+five years;
+(b) subject to subsections (3) and (5), ends 20 years af-
+ter it was made if the maximum term of imprisonment
+for the offence is 10 or 14 years; and
+(2) Subsections 490.013(2.1) to (5) of the Act are re-
+placed by the following:
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 7-8
+
+Page 15 
+Duration of order — offences in same proceeding
+(3) An order made under subsection 490.012(1) or (3) ap-
+plies for life if
+(a) in the same proceeding, the person has been con-
+victed of, or a verdict of not criminally responsible on
+account of mental disorder is rendered for, two or
+more designated offences in connection with which an
+order under any of subsections 490.012(1) to (3) may
+be made; and
+(b) the court is satisfied that those offences demon-
+strate, or form part of, a pattern of behaviour showing
+that the person presents an increased risk of reoffend-
+ing by committing a crime of a sexual nature.
+If court not satisfied
+(4) If paragraph (3)(a) applies in the circumstances but
+the court is not satisfied as set out in paragraph (3)(b),
+the duration of the order is determined by applying para-
+graphs (2)(a) to (c) to the designated offence with the
+longest maximum term of imprisonment.
+Duration of order — other order or obligation
+(5) An order made under subsection 490.012(1) or (3) ap-
+plies for life if the person
+(a) was previously convicted of, or previously received
+a verdict of not criminally responsible on account of
+mental disorder for, a primary offence or an offence
+under section 130 of the National Defence Act in re-
+spect of a primary offence; or
+(b) is, or was at any time, the subject of an order or
+obligation under this or another Act of Parliament to
+comply with the Sex Offender Information Registra-
+tion Act.
+Duration of order — s. 490.012(2)
+(6) An order made under subsection 490.012(2) applies
+for life.
+9 Section 490.014 of the Act is replaced by the fol-
+lowing:
+Reasons
+490.0131 The court shall
+(a) state the designated offence, and the term of im-
+prisonment imposed for it, that form the basis of an
+order made under subsection 490.012(1); and
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 8-9
+
+Page 16 
+(b) give reasons for a decision under subsection
+490.012(3) or paragraph 490.013(3)(b).
+Failure to make order
+490.0132 If the court does not consider the matter un-
+der any of subsections 490.012(1) to (3) at the time the
+sentence is imposed, or a verdict of not criminally re-
+sponsible on account of mental disorder is rendered, for
+a primary offence, the court
+(a) shall, within 90 days after the day on which it im-
+poses the sentence or renders the verdict, set a date
+for a hearing to do so;
+(b) retains jurisdiction over the matter;
+(c) may require the person to appear at the hearing by
+videoconference, as long as the person is given the op-
+portunity to communicate privately with counsel if
+they are represented by counsel; and
+(d) may issue a summons in Form 6.3 to compel the
+attendance of the person at the hearing.
+Appeal
+490.014 The prosecutor, or a person who is subject to
+an order made under section 490.012, may appeal from a
+decision of the court under section 490.012 or 490.013 on
+any ground of appeal that raises a question of law or of
+mixed law and fact. The appeal court may
+(a) dismiss the appeal; or
+(b) allow the appeal and order a new hearing, quash
+or amend the order or make an order that may be
+made under section 490.012.
+10 (1) Paragraph 490.015(1)(c) of the Act is re-
+placed by the following:
+(c) if 20 years have elapsed since the order was made,
+in the case of an order referred to in paragraph
+490.013(2)(c) or in any of subsections 490.013(3), (5) or
+(6).
+(2) Subsection 490.015(3) of the Act is replaced by
+the following:
+Pardon, record suspension or absolute discharge
+(3) Despite subsections (1) and (2), a person may apply
+for a termination order once they receive a pardon, once
+a record suspension is ordered or once they are absolute-
+ly discharged under paragraph 672.54(a).
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 9-10
+
+Page 17 
+11 Subsection 490.016(1) of the Act is replaced by
+the following:
+Termination order
+490.016 (1) The court shall make a termination order if
+it is satisfied that the person has established that
+(a) there would be no connection between continuing
+an order or obligation and the purpose of helping po-
+lice services prevent or investigate crimes of a sexual
+nature by requiring the registration of information re-
+lating to sex offenders under the Sex Offender Infor-
+mation Registration Act; or
+(b) the impact on the person of continuing an order or
+obligation, including on their privacy or liberty, would
+be grossly disproportionate to the public interest in
+protecting society through the effective prevention or
+investigation of crimes of a sexual nature, to be
+achieved by the registration of information relating to
+sex offenders under that Act.
+Factors
+(1.1) In determining whether to make the termination
+order, the court shall consider
+(a) the nature and seriousness of the offence that is
+the basis of an order or obligation;
+(b) the victim’s age and other personal characteristics;
+(c) the nature and circumstances of the relationship
+between the person and the victim;
+(d) the personal characteristics and circumstances of
+the person;
+(e) the person’s criminal history, including the age at
+which they previously committed any offence and the
+length of time for which they have been at liberty
+without committing an offence;
+(f) the opinions of experts who have examined the
+person; and
+(g) any other factors that the court considers relevant.
+12 Subparagraph 490.018(1)(d)(iv) of the Act is re-
+placed by the following:
+(iv) the Commissioner of the Royal Canadian
+Mounted Police and, if there is a provincial police
+service that is responsible for the registration of in-
+formation under the Sex Offender Information
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 11-12
+
+Page 18 
+Registration Act in the province in which the court
+makes the order, the head of that police service.
+13 Section 490.02 of the Act is amended by adding
+the following after subsection (2):
+References
+(3) The reference in subsection (1) to the definition des-
+ignated offence is a reference to that definition as it
+read from time to time before the day on which this sub-
+section comes into force, and the reference in paragraph
+(2)(b) to subsection 490.012(3) is a reference to that pro-
+vision as it read from time to time before that day.
+14 Section 490.022 of the Act is amended by
+adding the following after subsection (3):
+Reference
+(4) The reference in paragraph (3)(d) to the definition
+designated offence is to a reference to that definition as
+it read from time to time before the day on which this
+subsection comes into force.
+15 (1) The portion of subsection 490.026(2) of the
+Act before paragraph (a) is replaced by the fol-
+lowing:
+Time for application
+(2) A person may apply for a termination order if the fol-
+lowing period has elapsed since they were sentenced, or
+found not criminally responsible on account of mental
+disorder, for the offence listed in the notice:
+(2) Subsections 490.026(3) and (4) of the Act are
+replaced by the following:
+More than one offence
+(3) If more than one offence is listed in the notice, the
+person may apply for a termination order if 20 years have
+elapsed since they were sentenced, or found not criminal-
+ly responsible on account of mental disorder, for the
+most recent offence.
+Pardon, record suspension or absolute discharge
+(4) Despite subsections (2) and (3), a person may apply
+for a termination order once they receive a pardon, once
+a record suspension is ordered or once they are absolute-
+ly discharged under paragraph 672.54(a).
+16 Subsection 490.027(1) of the Act is replaced by
+the following:
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 12-16
+
+Page 19 
+Termination order
+490.027 (1) The court shall make an order terminating
+the obligation if it is satisfied that the person has estab-
+lished that
+(a) there would be no connection between continuing
+the obligation and the purpose of helping police ser-
+vices prevent or investigate crimes of a sexual nature
+by requiring the registration of information relating to
+sex offenders under the Sex Offender Information
+Registration Act; or
+(b) the impact on the person of continuing the obliga-
+tion, including on their privacy or liberty, would be
+grossly disproportionate to the public interest in pro-
+tecting society through the effective prevention or in-
+vestigation of crimes of a sexual nature, to be achieved
+by the registration of information relating to sex of-
+fenders under that Act.
+Factors
+(1.1) In determining whether to make the termination
+order, the court shall consider
+(a) the nature and seriousness of the offence that is
+the basis of the obligation;
+(b) the victim’s age and other personal characteristics;
+(c) the nature and circumstances of the relationship
+between the person and the victim;
+(d) the personal characteristics and circumstances of
+the person;
+(e) the person’s criminal history, including the age at
+which they previously committed any offence and the
+length of time for which they have been at liberty
+without committing an offence;
+(f) the opinions of experts who have examined the
+person; and
+(g) any other factors that the court considers relevant.
+17 Subsection 490.02902(1) of the Act is replaced
+by the following:
+Persons who may be served
+490.02902 (1) The Attorney General of a province, or
+the minister of justice of a territory, may serve a person
+with a notice in Form 54 only if the person arrived in
+Canada on or after April 15, 2011 and they were convicted
+of or found not criminally responsible on account of
+mental disorder for an offence outside Canada — other
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 16-17
+
+Page 20 
+than a service offence as defined in subsection 2(1) of
+the National Defence Act — that is, in the opinion of the
+Attorney General or minister of justice, equivalent to an
+offence referred to in paragraph (a) of the definition pri-
+mary offence in subsection 490.011(1).
+18 Paragraph 490.02904(3)(d) of the Act is re-
+placed by the following:
+(d) applies for life if, on April 15, 2011 or before or af-
+ter that day, the person was convicted of, or found not
+criminally responsible on account of mental disorder
+for, more than one offence outside Canada that is, in
+the opinion of the Attorney General of the province or
+minister of justice of the territory, equivalent to an of-
+fence referred to in paragraph (a) of the definition pri-
+mary offence in subsection 490.011(1) and if more
+than one of those offences is listed in the notice.
+19 (1) Subsection 490.02905(2) of the Act is re-
+placed by the following:
+Exemption order
+(2) The court shall make an exemption order if it is satis-
+fied that the person has established that
+(a) they were not convicted of or found not criminally
+responsible on account of mental disorder for or were
+acquitted of the offence in question;
+(b) the offence in question is not equivalent to an of-
+fence referred to in paragraph (a) of the definition pri-
+mary offence in subsection 490.011(1);
+(c) there is no connection between the obligation and
+the purpose of helping police services prevent or in-
+vestigate crimes of a sexual nature by requiring the
+registration of information relating to sex offenders
+under the Sex Offender Information Registration Act;
+or
+(d) the impact of the obligation on the person, includ-
+ing on their privacy or liberty, is grossly dispropor-
+tionate to the public interest in protecting society
+through the effective prevention or investigation of
+crimes of a sexual nature, to be achieved by the regis-
+tration of information relating to sex offenders under
+that Act.
+Factors
+(2.1) In determining whether to make an exemption or-
+der under paragraph (2)(c) or (d), the court shall consid-
+er
+(a) the nature and seriousness of the offence that is
+the basis of the obligation;
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 17-19
+
+Page 21 
+(b) the victim’s age and other personal characteristics;
+(c) the nature and circumstances of the relationship
+between the person and the victim;
+(d) the personal characteristics and circumstances of
+the person;
+(e) the person’s criminal history, including the age at
+which they previously committed any offence and the
+length of time for which they have been at liberty
+without committing an offence;
+(f) the opinions of experts who have examined the
+person; and
+(g) any other factors that the court considers relevant.
+Order to correct
+(2.2) If the court does not make an exemption order but
+is satisfied that the offence in question, though not equiv-
+alent to the offence referred to in the notice, is equivalent
+to another offence referred to in paragraph (a) of the def-
+inition primary offence in subsection 490.011(1), the
+court shall order that the notice be corrected.
+(2) Subsection 490.02905(5) of the Act is replaced
+by the following:
+Notification
+(5) If the court makes an order referred to in subsection
+(2.2), it shall cause the Commissioner of the Royal Cana-
+dian Mounted Police and the Attorney General of the
+province, or the minister of justice of the territory, in
+which the application for the order was made to be noti-
+fied of the decision.
+20 The Act is amended by adding the following
+after section 490.02905:
+Application for variation order
+490.029051 (1) A person who is served with a notice in
+Form 54 under section 490.02903 may, within one year af-
+ter they are served, apply to a court of criminal jurisdic-
+tion for an order to vary the duration of the obligation if
+(a) the obligation applies for life under paragraph
+490.02904(3)(d); and
+(b) none of the offences in question listed in the notice
+have an equivalent offence with a maximum term of
+imprisonment for life provided for in Canadian law.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 19-20
+
+Page 22 
+Variation order
+(2) The court shall make the variation order if it is satis-
+fied that the person has established that the offences in
+question listed in the notice do not demonstrate, or do
+not form part of, a pattern of behaviour showing that the
+person presents an increased risk of reoffending by com-
+mitting a crime of a sexual nature.
+Variation of duration
+(3) If the court makes a variation order, it shall set out
+the duration of the obligation in the order, which shall be
+determined by applying paragraphs 490.02904(3)(a) and
+(b) to the offence in question listed in the notice whose
+equivalent offence has the longest maximum term of im-
+prisonment provided for in Canadian law.
+Reasons for decision
+(4) The court shall give reasons for its decision.
+Notification
+(5) The court shall cause the Commissioner of the Royal
+Canadian Mounted Police and the Attorney General of
+the province, or the minister of justice of the territory, in
+which the application for the order was made to be noti-
+fied of a variation order made under this section.
+21 Subsection 490.02906(1) of the Act is replaced
+by the following:
+Appeal
+490.02906 (1) The Attorney General or the person who
+applied for an exemption order or a variation order may
+appeal from a decision under subsection 490.02905(2) or
+(2.2) or 490.029051(2) or (3) on any ground of appeal that
+raises a question of law or of mixed law and fact. The ap-
+peal court may
+(a) dismiss the appeal; or
+(b) allow the appeal and order a new hearing, quash
+or amend the exemption order or variation order or
+make an order that may be made, as the case may be,
+under 
+subsection 
+490.02905(2) 
+or 
+(2.2) 
+or
+490.029051(2).
+22 Section 490.02907 of the Act is renumbered as
+subsection 490.02907(1) and is amended by adding
+the following:
+Notice — variation order
+(2) If an appeal court quashes a variation order, it shall
+cause the Commissioner of the Royal Canadian Mounted
+Police and the Attorney General of the province, or the
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 20-22
+
+Page 23 
+minister of justice of the territory, in which the applica-
+tion for the order was made to be notified of the decision.
+23 Subsection 490.02909(1) of the Act is replaced
+by the following:
+Termination order
+490.02909 (1) The court shall make an order terminat-
+ing the obligation if it is satisfied that the person has es-
+tablished that
+(a) there would be no connection between continuing
+the obligation and the purpose of helping police ser-
+vices prevent or investigate crimes of a sexual nature
+by requiring the registration of information relating to
+sex offenders under the Sex Offender Information
+Registration Act; or
+(b) the impact on the person of continuing the obliga-
+tion, including on their privacy or liberty, would be
+grossly disproportionate to the public interest in pro-
+tecting society through the effective prevention or in-
+vestigation of crimes of a sexual nature, to be achieved
+by the registration of information relating to sex of-
+fenders under that Act.
+Factors
+(1.1) In determining whether to make the termination
+order, the court shall consider
+(a) the nature and seriousness of the offence that is
+the basis of the obligation;
+(b) the victim’s age and other personal characteristics;
+(c) the nature and circumstances of the relationship
+between the person and the victim;
+(d) the personal characteristics and circumstances of
+the person;
+(e) the person’s criminal history, including the age at
+which they previously committed any offence and the
+length of time for which they have been at liberty
+without committing an offence;
+(f) the opinions of experts who have examined the
+person; and
+(g) any other factors that the court considers relevant.
+24 Subsection 490.02911(1) of the Act is replaced
+by the following:
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 22-24
+
+Page 24 
+Obligation to advise police service
+490.02911 (1) A person who was convicted of or found
+not criminally responsible on account of mental disorder
+for an offence outside Canada shall, if the offence is
+equivalent to one referred to in paragraph (a) of the defi-
+nition primary offence in subsection 490.011(1), advise a
+police service within seven days after the day on which
+they arrive in Canada of that fact and of
+(a) their name, date of birth, gender, address and tele-
+phone number in Canada; and
+(b) to the best of their knowledge,
+(i) the offence for which they were convicted or
+found not criminally responsible,
+(ii) the country — and, if applicable, the province,
+state, territory or municipality in that country — in
+which the offence was committed,
+(iii) the day on which the offence was committed,
+(iv) the day on which they were convicted of the of-
+fence or found not criminally responsible for it, and
+(v) if different from the day on which they were
+convicted of the offence, the day on which the sen-
+tence was imposed.
+New obligation to advise
+(1.1) The person is not required to advise the police ser-
+vice again under subsection (1) unless they are later con-
+victed of or found not criminally responsible on account
+of mental disorder for another offence outside Canada re-
+ferred to in that subsection.
+25 The Act is amended by adding the following
+before section 490.02912:
+Application for exemption order
+490.029111 (1) A person who is subject to an obliga-
+tion under section 36.1 of the International Transfer of
+Offenders Act may apply to a court of criminal jurisdic-
+tion for an order exempting them from the obligation
+within one year after the day of their transfer to Canada
+under that Act.
+Exemption order
+(2) The court shall make an exemption order if it is satis-
+fied that the person has established that
+(a) there is no connection between the obligation and
+the purpose of helping police services prevent or in-
+vestigate crimes of a sexual nature by requiring the
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 24-25
+
+Page 25 
+registration of information relating to sex offenders
+under the Sex Offender Information Registration Act;
+or
+(b) the impact of the obligation on the person, includ-
+ing on their privacy or liberty, is grossly dispropor-
+tionate to the public interest in protecting society
+through the effective prevention or investigation of
+crimes of a sexual nature, to be achieved by the regis-
+tration of information relating to sex offenders under
+that Act.
+Factors
+(3) In determining whether to make an exemption order,
+the court shall consider
+(a) the nature and seriousness of the offence that is
+the basis of the obligation;
+(b) the victim’s age and other personal characteristics;
+(c) the nature and circumstances of the relationship
+between the person and the victim;
+(d) the personal characteristics and circumstances of
+the person;
+(e) the person’s criminal history, including the age at
+which they previously committed any offence and the
+length of time for which they have been at liberty
+without committing an offence;
+(f) the opinions of experts who have examined the
+person; and
+(g) any other factors that the court considers relevant.
+Reasons for decision
+(4) The court shall give reasons for its decision.
+Removal of information from database
+(5) If the court makes an exemption order, it shall also
+make an order requiring the Royal Canadian Mounted
+Police to permanently remove from the database all in-
+formation that relates to the person that was registered
+in the database on receipt of a copy of the Form 1 re-
+ferred to in subparagraph 8(4)(a)(ii) of the International
+Transfer of Offenders Act.
+Application for variation order
+490.029112 (1) A person who is subject to an obliga-
+tion under section 36.1 of the International Transfer of
+Offenders Act may, within one year after the day of their
+transfer to Canada under that Act, apply to a court of
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+25
+
+Page 26 
+criminal jurisdiction for an order to vary the duration of
+the obligation if
+(a) the obligation applies for life under subsection
+36.2(3) of that Act; and
+(b) none of the offences in question listed in the Form
+1 referred to in subparagraph 8(4)(a)(ii) of that Act
+have an equivalent criminal offence with a maximum
+term of imprisonment for life provided for in Canadi-
+an law.
+Variation order
+(2) The court shall make the variation order if it is satis-
+fied that the person has established that the offences in
+question listed in that Form 1 do not demonstrate, or do
+not form part of, a pattern of behaviour showing that the
+person presents an increased risk of reoffending by com-
+mitting a crime of a sexual nature.
+Variation of duration
+(3) If the court makes a variation order, it shall set out
+the duration of the obligation in the order, which shall be
+determined by applying paragraphs 36.2(2)(a) and (b) of
+the International Transfer of Offenders Act to the of-
+fence in question listed in that Form 1 whose equivalent
+criminal offence has the longest maximum term of im-
+prisonment provided for in Canadian law.
+Reasons for decision
+(4) The court shall give reasons for its decision.
+Notification
+(5) The court shall cause the Commissioner of the Royal
+Canadian Mounted Police and the Attorney General of
+the province, or the minister of justice of the territory, in
+which the application for the order was made to be noti-
+fied of a variation order made under this section.
+Appeal
+490.029113 (1) The Attorney General or the person
+who applied for an exemption order or a variation order
+may 
+appeal 
+from 
+a 
+decision 
+under 
+subsection
+490.029111(2) or 490.029112(2) or (3) on any ground of
+appeal that raises a question of law or of mixed law and
+fact. The appeal court may
+(a) dismiss the appeal; or
+(b) allow the appeal and order a new hearing, quash
+or amend the exemption order or variation order or
+make an order that may be made, as the case may be,
+under subsection 490.029111(2) or section 490.029112.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+25
+
+Page 27 
+Removal of information from database
+(2) If an appeal court makes an exemption order, it shall
+also make an order requiring the Royal Canadian Mount-
+ed Police to permanently remove from the database all
+information that relates to the person that was registered
+in the database on receipt of a copy of the Form 1 re-
+ferred to in subparagraph 8(4)(a)(ii) of the International
+Transfer of Offenders Act.
+Requirements relating to notice
+490.029114 (1) If an appeal court quashes an exemp-
+tion order, it shall cause the Commissioner of the Royal
+Canadian Mounted Police and the Attorney General of
+the province, or the minister of justice of the territory, in
+which the application for the order was made to be noti-
+fied of the decision and shall cause the person who ap-
+plied for the order to be informed of sections 4 to 7.1 of
+the Sex Offender Information Registration Act, sections
+490.031 and 490.0311 of this Act and section 119.1 of the
+National Defence Act.
+Notice — variation order
+(2) If an appeal court quashes a variation order, it shall
+cause the Commissioner of the Royal Canadian Mounted
+Police and the Attorney General of the province, or the
+minister of justice of the territory, in which the applica-
+tion for the order was made to be notified of the decision.
+26 Section 490.02912 of the Act is amended by
+adding the following after subsection (3):
+Absolute discharge
+(3.1) Despite subsections (2) and (3), a person may apply
+for a termination order once they are absolutely dis-
+charged under paragraph 672.54(a).
+27 Subsection 490.02913(1) of the Act is replaced
+by the following:
+Termination order
+490.02913 (1) The court shall make an order terminat-
+ing the obligation if it is satisfied that the person has es-
+tablished that
+(a) there would be no connection between continuing
+the obligation and the purpose of helping police ser-
+vices prevent or investigate crimes of a sexual nature
+by requiring the registration of information relating to
+sex offenders under the Sex Offender Information
+Registration Act; or
+(b) the impact of continuing the obligation on the per-
+son, including on their privacy or liberty, would be
+grossly disproportionate to the public interest in
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 25-27
+
+Page 28 
+protecting society through the effective prevention or
+investigation of crimes of a sexual nature, to be
+achieved by the registration of information relating to
+sex offenders under that Act.
+Factors
+(1.1) In determining whether to make the termination
+order, the court shall consider
+(a) the nature and seriousness of the offence that is
+the basis of the obligation;
+(b) the victim’s age and other personal characteristics;
+(c) the nature and circumstances of the relationship
+between the person and the victim;
+(d) the personal characteristics and circumstances of
+the person;
+(e) the person’s criminal history, including the age at
+which they previously committed any offence and the
+length of time for which they have been at liberty
+without committing an offence;
+(f) the opinions of experts who have examined the
+person; and
+(g) any other factors that the court considers relevant.
+28 Paragraph 490.03(1)(b) of the Act is replaced
+by the following:
+(b) to the Attorney General if the disclosure is neces-
+sary for the purpose of a proceeding under section
+490.016, 490.023, 490.027, 490.02905, 490.029051,
+490.02909, 490.029111, 490.029112, 490.02913, 490.04 or
+490.05 or for the purpose of an appeal from a decision
+made in any of those proceedings or in a proceeding
+under section 490.012 or 490.013.
+29 Subsection 490.031(3) of the Act is replaced by
+the following:
+Proof of certain facts by certificate
+(3) In proceedings under subsection (1), a certificate of a
+person referred to in paragraph 16(2)(b) of the Sex Of-
+fender Information Registration Act stating that the sex
+offender failed to report under section 4, 4.1, 4.2 or 4.3 —
+or provide information under section 5 or notify a person
+under subsection 6(1) or (1.01) — of that Act is evidence
+of the statements contained in it without proof of the sig-
+nature or official character of the person appearing to
+have signed it.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 27-29
+
+Page 29 
+30 The portion of section 490.0311 of the Act be-
+fore paragraph (a) is replaced by the following:
+Offence
+490.0311 Every person who knowingly provides false or
+misleading information under subsection 5(1) or 6(1) or
+(1.01) of the Sex Offender Information Registration Act
+is guilty of an offence and liable
+31 The Act is amended by adding the following
+after section 490.0312:
+Warrant
+Warrant to arrest
+490.03121 (1) If a justice is satisfied that there are rea-
+sonable grounds to believe that a person has contravened
+any of sections 4 to 5.1 of the Sex Offender Information
+Registration Act, the justice may issue a warrant in Form
+6.4 authorizing a peace officer to arrest the person and,
+despite section 7.1 of that Act, bring them to any registra-
+tion centre to remedy the contravention.
+Conditions
+(2) The warrant shall contain any conditions that the jus-
+tice considers advisable to ensure that an arrest autho-
+rized by the warrant is reasonable in the circumstances.
+Execution of warrant
+(3) The warrant may be executed anywhere in Canada.
+Warrant in force
+(4) The warrant remains in force until it is executed, un-
+til a charge under section 490.031 is laid in respect of the
+contravention or until the person has remedied the con-
+travention.
+No charge
+(5) No charge shall be laid against the person in respect
+of any contravention of any of sections 4 to 5.1 of that Act
+that is remedied by the person after the warrant is issued.
+32 The Act is amended by adding the following
+after section 490.032:
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 29-32
+
+Page 30 
+Additional Orders
+Application for exemption order
+490.04 (1) A person may apply to a court for an order
+exempting them from
+(a) an order made under section 490.012 on or after
+April 15, 2011 but before the day on which this para-
+graph comes into force; or
+(b) an obligation under section 490.02901, or under
+section 36.1 of the International Transfer of Offenders
+Act, that began before the day on which this paragraph
+comes into force.
+Limitation — application
+(2) A person is not permitted to apply under paragraph
+(1)(b) if, on or after the day on which this subsection
+comes into force, they have made an application for an
+exemption order under section 490.02905 or 490.029111
+in respect of the same obligation.
+Jurisdiction
+(3) The application shall be made to
+(a) a superior court of criminal jurisdiction, if the ap-
+plication is made under paragraph (1)(a) in respect of
+an order made by such a court; or
+(b) a court of criminal jurisdiction, in any other case.
+Limitation — exemption order
+(4) The court shall not make an exemption order in re-
+spect of an application made under paragraph (1)(a) if
+(a) the designated offence that is the basis of the order
+made under section 490.012 was prosecuted by indict-
+ment, the sentence for that offence is a term of impris-
+onment of two years or more and the victim of that of-
+fence was under the age of 18 years; or
+(b) before or after the order under section 490.012 was
+made, the person
+(i) was convicted of a primary offence — or convict-
+ed of an offence under section 130 of the National
+Defence Act in respect of a primary offence — that
+is not the offence on the basis of which the order
+was made, or
+(ii) is or was, as a result of a conviction, subject to
+another order or obligation under this or another
+Act of Parliament to comply with the Sex Offender
+Information Registration Act.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+32
+
+Page 31 
+Exemption order
+(5) Subject to subsection (4), the court shall make an ex-
+emption order if it is satisfied that the person has estab-
+lished that, at the time the order was made or the obliga-
+tion began,
+(a) there was no connection between the order or obli-
+gation and the purpose of helping police services
+prevent or investigate crimes of a sexual nature by re-
+quiring the registration of information relating to sex
+offenders under the Sex Offender Information Regis-
+tration Act; or
+(b) the impact of the order or the obligation on the
+person, including on their privacy or liberty, was
+grossly disproportionate to the public interest in pro-
+tecting society through the effective prevention or in-
+vestigation of crimes of a sexual nature, to be achieved
+by the registration of information relating to sex of-
+fenders under that Act.
+Factors
+(6) In determining whether to make the exemption or-
+der, the court shall consider
+(a) the nature and seriousness of the offence that is
+the basis of the order or obligation;
+(b) the victim’s age and other personal characteristics;
+(c) the nature and circumstances of the relationship
+between the person and the victim;
+(d) the personal characteristics and circumstances of
+the person;
+(e) the person’s criminal history, including the age at
+which they previously committed any offence and the
+length of time for which they have been at liberty
+without committing an offence;
+(f) the opinions of experts who have examined the
+person; and
+(g) any other factors that the court considers relevant.
+Reasons for decision
+(7) The court shall give reasons for its decision.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+32
+
+Page 32 
+Removal of information from database
+(8) If the court makes an exemption order, it shall also
+make an order requiring the Royal Canadian Mounted
+Police to permanently remove from the database all in-
+formation that relates to the person that was registered
+in the database on receipt of a copy of the order made
+under section 490.012, the notice referred to in section
+490.02901 or the Form 1 referred to in subparagraph
+8(4)(a)(ii) of the International Transfer of Offenders Act,
+as the case may be.
+Application for variation order
+490.05 (1) A person may apply to a court for an order to
+vary the duration of
+(a) an order made under section 490.012, if the order
+applies for life under subsection 490.013(2.1), as it
+read from time to time before the day on which this
+paragraph comes into force;
+(b) an obligation under section 490.019, if the obliga-
+tion applies for life under paragraph 490.022(3)(d) and
+none of the offences listed in the notice in Form 53
+served on the person in respect of the obligation have
+a maximum term of imprisonment for life;
+(c) an obligation under section 490.02901, if the obli-
+gation 
+applies 
+for 
+life 
+under 
+paragraph
+490.02904(3)(d), the obligation began before the day
+on which this paragraph comes into force and the con-
+dition set out in paragraph 490.029051(1)(b) is met; or
+(d) an obligation under section 36.1 of the Interna-
+tional Transfer of Offenders Act, if the obligation ap-
+plies for life under subsection 36.2(3) of that Act, the
+obligation began before the day on which this para-
+graph comes into force and the condition set out in
+paragraph 490.029112(1)(b) is met.
+Limitation
+(2) A person is not permitted to apply under paragraph
+(1)(c) or (d) if they have made an application for a varia-
+tion order under section 490.029051 or 490.029112 in re-
+spect of the same obligation.
+Jurisdiction
+(3) The application shall be made to
+(a) a superior court of criminal jurisdiction, if the ap-
+plication is made under paragraph (1)(a) in respect of
+an order made by such a court; or
+(b) a court of criminal jurisdiction, in any other case.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+32
+
+Page 33 
+Variation order
+(4) The court shall make the variation order if it is satis-
+fied that the person has established that the offences that
+are the basis of the order or obligation do not demon-
+strate, or do not form part of, a pattern of behaviour
+showing that the person presents an increased risk of re-
+offending by committing a crime of a sexual nature.
+Variation of duration
+(5) If the court makes a variation order, it shall set out
+the duration of the order or obligation in the order,
+which shall be determined by applying
+(a) subsection 490.013(2) to the offence in question
+with the longest maximum term of imprisonment, in
+the case of an order under section 490.012;
+(b) paragraphs 490.022(3)(a) and (b) to the offence in
+question with the longest maximum term of imprison-
+ment, in the case of an obligation under section
+490.019;
+(c) paragraphs 490.02904(3)(a) and (b) to the offence
+in question whose equivalent offence has the longest
+maximum term of imprisonment provided for in
+Canadian law, in the case of an obligation under sec-
+tion 490.02901; and
+(d) paragraphs 36.2(2)(a) and (b) of the International
+Transfer of Offenders Act to the offence in question
+whose equivalent criminal offence has the longest
+maximum term of imprisonment provided for in
+Canadian law, in the case of an obligation under sec-
+tion 36.1 of that Act.
+Reasons for decision
+(6) The court shall give reasons for its decision.
+Notification
+(7) The court shall cause the Commissioner of the Royal
+Canadian Mounted Police and the Attorney General of
+the province, or the minister of justice of the territory, in
+which the application for the order was made to be noti-
+fied of a variation order made under this section.
+Appeal
+490.06 (1) The Attorney General or the person who ap-
+plied for an exemption order or a variation order may ap-
+peal from a decision under subsection 490.04(4) or (5) or
+490.05(4) or (5) on any ground of appeal that raises a
+question of law or of mixed law and fact. The appeal
+court may
+(a) dismiss the appeal; or
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+32
+
+Page 34 
+(b) allow the appeal and order a new hearing, quash
+or amend the exemption order or variation order or
+make an order that may be made, as the case may be,
+under subsection 490.04(5) or section 490.05.
+Removal of information from database
+(2) If an appeal court makes an exemption order, it shall
+also make an order requiring the Royal Canadian Mount-
+ed Police to permanently remove from the database all
+information that relates to the person that was registered
+in the database on receipt of a copy of the order made
+under section 490.012, the notice referred to in section
+490.02901 or the Form 1 referred to in subparagraph
+8(4)(a)(ii) of the International Transfer of Offenders Act,
+as the case may be.
+Requirements relating to notice
+490.07 (1) If an appeal court quashes an exemption or-
+der, it shall cause the Commissioner of the Royal Canadi-
+an Mounted Police and the Attorney General of the
+province, or the minister of justice of the territory, in
+which the application for the order was made to be noti-
+fied of the decision and shall cause the person who ap-
+plied for the order to be informed of sections 4 to 7.1 of
+the Sex Offender Information Registration Act, sections
+490.031 and 490.0311 of this Act and section 119.1 of the
+National Defence Act.
+Notice — variation order
+(2) If an appeal court quashes a variation order, it shall
+cause the Commissioner of the Royal Canadian Mounted
+Police and the Attorney General of the province, or the
+minister of justice of the territory, in which the applica-
+tion for the order was made to be notified of the decision.
+33 Subsection 703(2) of the Act is replaced by the
+following:
+Warrant effective in a province
+(2) Despite any other provision of this Act but subject to
+subsections 487.0551(2), 490.03121(3) and 705(3), a war-
+rant of arrest or committal that is issued by a justice or
+provincial court judge may be executed anywhere in the
+province in which it is issued.
+34 The Act is amended by adding the following
+after section 726.2:
+Inquiry by court
+726.3 When imposing a sentence, a court must inquire
+of the prosecutor if reasonable steps were taken to deter-
+mine whether the victim wishes to receive information
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 32-34
+
+Page 35 
+regarding the sentence and its administration and must,
+if known, enter the victim’s wishes into the record of the
+proceedings.
+35 Section 743.2 of the Act is replaced by the fol-
+lowing:
+Report by court to Correctional Service
+743.2 A court that sentences or commits a person to
+penitentiary shall forward to the Correctional Service of
+Canada its reasons and recommendation relating to the
+sentence or committal, any relevant reports that were
+submitted to the court, any other information relevant to
+administering the sentence or committal and the name
+and contact information for any victim who wishes to re-
+ceive information under the Corrections and Conditional
+Release Act.
+36 Part XXVIII of the Act is amended by adding
+the following after Form 6.2:
+FORM 6.3
+(Section 490.0132)
+Summons to Appear for the
+Purposes of Section 490.0132
+Canada,
+Province of .................
+(territorial division)
+To (name of person), of ................. , born on (date of
+birth):
+Because on (date) at (hour) at (place) a sentence was
+imposed on you — or a verdict of not criminally re-
+sponsible on account of mental disorder was ren-
+dered in respect of you — for a primary offence and
+the court did not, at the time the sentence was im-
+posed or the verdict was rendered, consider whether
+an order to comply with the Sex Offender Informa-
+tion Registration Act should be made under any of
+subsections 490.012(1) to (3) of the Criminal Code;
+You are ordered, in His Majesty’s name, to appear on
+(date) at (hour) at (place) for the purposes of consid-
+ering whether an order should be made under any of
+subsections 490.012(1) to (3) of the Criminal Code in
+respect of the primary offence for which the sentence
+was imposed or the verdict of not criminally respon-
+sible on account of mental disorder was rendered.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 34-36
+
+Page 36 
+You are warned that, unless you have a lawful ex-
+cuse, it is an offence under subsection 145(3) of the
+Criminal Code to fail to appear as required in this
+summons.
+If you commit an offence under subsection 145(3) of
+the Criminal Code, a warrant for your arrest may be
+issued (section 512 or 512.1 of the Criminal Code)
+and you may be liable to a fine or to imprisonment,
+or to both.
+Signed on (date), at (place).
+(Signature of judge, justice or clerk of the court)
+(Name of the judge or justice)
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+36
+
+Page 37 
+FORM 6.4
+(Section 490.03121)
+Warrant for Arrest
+Canada
+Province of .................
+(territorial division)
+To the peace officers in (territorial division):
+This warrant is issued for the arrest of (name of per-
+son), of ................. , born on (date of birth).
+Whereas (name of person) contravened a require-
+ment, under the Criminal Code or another Act of Par-
+liament, to comply with sections 4 to 5.1 of the Sex
+Offender Information Registration Act;
+This is, therefore, to command you, in His Majesty’s
+name, to arrest (name of person) without delay in or-
+der to bring them to a registration centre, as defined
+in subsection 3(1) of the Sex Offender Information
+Registration Act, to remedy any contravention of any
+of sections 4 to 5.1 of that Act.
+Signed on (date), at (place).
+............................................
+(Signature of justice)
+............................................
+(Name of the justice who has issued this warrant)
+37 Form 34.2 of Part XXVIII of the Act is replaced
+by the following:
+FORM 34.2
+(Subsection 722(4))
+Victim Impact Statement
+This form may be used to provide a description of
+the physical or emotional harm, property damage or
+economic loss suffered by you as the result of the
+commission of an offence, as well as a description of
+the impact of the offence on you. You may attach ad-
+ditional pages if you need more space.
+Your statement must not include
+• any statement about the offence or the offender
+that is not relevant to the harm or loss you suf-
+fered;
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 36-37
+
+Page 38 
+• any unproven allegations;
+• any comments about any offence for which the
+offender was not convicted;
+• any complaint about any individual, other than
+the offender, who was involved in the investiga-
+tion or prosecution of the offence; or
+• except with the court’s approval, an opinion or
+recommendation about the sentence.
+You may present a detailed account of the impact the
+offence has had on your life. The following sections
+are examples of information you may wish to include
+in your statement. You are not required to include all
+of this information.
+Emotional impact
+Describe how the offence has affected you emotion-
+ally. For example, think of
+• your lifestyle and activities;
+• your relationships with others such as your
+spouse, family and friends;
+• your ability to work, attend school or study; and
+• your feelings, emotions and reactions as they re-
+late to the offence.
+ 
+ 
+ 
+ 
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+37
+
+Page 39 
+Physical impact
+Describe how the offence has affected you physically.
+For example, think of
+• ongoing physical pain, discomfort, illness, scar-
+ring, disfigurement or physical limitation;
+• hospitalization or surgery you have had because
+of the offence;
+• treatment, physiotherapy or medication you
+have been prescribed;
+• the need for any further treatment or the expec-
+tation that you will receive further treatment; and
+• any permanent or long-term disability.
+ 
+ 
+ 
+ 
+Economic impact
+Describe how the offence has affected you financial-
+ly. For example, think of
+• the value of any property that was lost or dam-
+aged and the cost of repairs or replacement;
+• any financial loss due to missed time from work;
+• the cost of any medical expenses, therapy or
+counselling;
+• any costs or losses that are not covered by insur-
+ance.
+Please note that this is not an application for com-
+pensation or restitution.
+ 
+ 
+ 
+ 
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+37
+
+Page 40 
+Fears for security
+Describe any fears you have for your security or that
+of your family and friends. For example, think of
+• concerns with respect to contact with the offend-
+er; and
+• concerns with respect to contact between the of-
+fender and members of your family or close
+friends.
+ 
+ 
+ 
+ 
+Drawing, poem or letter
+You may use this space to draw a picture or write a
+poem or letter if it will help you express the impact
+that the offence has had on you.
+ 
+ 
+ 
+ 
+□ I would like to present my statement in court.
+□ I would like to receive information respecting the
+sentence imposed on the offender and its administra-
+tion.
+To the best of my knowledge, the information con-
+tained in this statement is true.
+Dated this .................  day of .................  20...., at
+.................  .
+Signature of declarant
+If you completed this statement on behalf of the vic-
+tim, please indicate the reasons why you did so and
+the nature of your relationship with the victim.
+ 
+ 
+Dated this .................  day of .................  20...., at
+.................  .
+Signature of declarant
+38 Form 48.2 of Part XXVIII of the Act is replaced
+by the following:
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 37-38
+
+Page 41 
+FORM 48.2
+(Subsection 672.5(14))
+Victim Impact Statement  —  Not
+Criminally Responsible
+This form may be used to provide a description of
+the physical or emotional harm, property damage or
+economic loss suffered by you arising from the con-
+duct for which the accused person was found not
+criminally responsible on account of mental disorder,
+as well as a description of the impact that the con-
+duct has had on you. You may attach additional
+pages if you need more space.
+Your statement must not include
+• any statement about the conduct of the accused
+that is not relevant to the harm or loss suffered by
+you;
+• any unproven allegations;
+• any comments about any conduct for which the
+accused was not found not criminally responsible;
+• any complaint about any individual, other than
+the accused, who was involved in the investigation
+or prosecution of the offence; or
+• except with the court’s or Review Board’s ap-
+proval, an opinion or recommendation about the
+disposition.
+The following sections are examples of information
+you may wish to include in your statement. You are
+not required to include all of this information.
+Emotional impact
+Describe how the accused’s conduct has affected you
+emotionally. For example, think of
+• your lifestyle and activities;
+• your relationships with others such as your
+spouse, family and friends;
+• your ability to work, attend school or study; and
+• your feelings, emotions and reactions as these
+relate to the conduct.
+ 
+ 
+ 
+ 
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+38
+
+Page 42 
+Physical impact
+Describe how the accused’s conduct has affected you
+physically. For example, think of
+• ongoing physical pain, discomfort, illness, scar-
+ring, disfigurement or physical limitation;
+• hospitalization or surgery you have had because
+of the conduct of the accused;
+• treatment, physiotherapy or medication you
+have been prescribed;
+• the need for any further treatment or the expec-
+tation that you will receive further treatment; and
+• any permanent or long-term disability.
+ 
+ 
+ 
+ 
+Economic impact
+Describe how the accused’s conduct has affected you
+financially. For example, think of
+• the value of any property that was lost or dam-
+aged and the cost of repairs or replacement;
+• any financial loss due to missed time from work;
+• the cost of any medical expenses, therapy or
+counselling; and
+• any costs or losses that are not covered by insur-
+ance.
+Please note that this is not an application for com-
+pensation or restitution.
+ 
+ 
+ 
+ 
+Fears for security
+Describe any fears you have for your security or that
+of your family and friends. For example, think of
+• concerns with respect to contact with the ac-
+cused; and
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+38
+
+Page 43 
+• concerns with respect to contact between the ac-
+cused and members of your family or close
+friends.
+ 
+ 
+ 
+ 
+Drawing, poem or letter
+You may use this space to draw a picture or write a
+poem or letter if it will help you express the impact
+that the accused’s conduct has had on you.
+ 
+ 
+ 
+ 
+□ I would like to read or present my statement (in
+court or before the Review Board).
+□ I would like to receive information respecting any
+hearings held to make or review a disposition in re-
+spect of the accused.
+□ I would like to receive information respecting any
+disposition made in respect of the accused.
+□ If the accused is discharged absolutely or condi-
+tionally, I would like to receive notice of that dis-
+charge and of the accused’s intended place of resi-
+dence.
+To the best of my knowledge, the information con-
+tained in this statement is true.
+Dated this .................  day of .................  20...., at
+.................  .
+Signature of declarant
+39 Section 2 of Form 52 of Part XXVIII of the Act
+is replaced by the following:
+2 You must subsequently report to the registration cen-
+tre referred to in section 7.1 of the Sex Offender Informa-
+tion Registration Act, whenever required under section
+4.1 or 4.3 of that Act, for a period of .................. years af-
+ter this order is made (or if paragraph 490.013(2)(c) or
+any of subsections 490.013(3), (5) or (6) of the Criminal
+Code applies, for life).
+40 (1) The paragraph of Form 54 of Part XXVIII
+of the Act that begins with “Because, on (date)”
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Sections 38-40
+
+Page 44 
+and ends with “490.011(1) of the Criminal Code” is
+replaced by the following:
+Because, on (date), you were convicted of or found not
+criminally responsible on account of mental disorder for
+an offence (or offences) in (location of offence(s)) that
+the Attorney General of the province, or the minister of
+justice of the territory, has identified as being equivalent
+to (description of offence(s)) under (applicable provi-
+sion(s) of the Criminal Code), an offence (or offences) re-
+ferred to in paragraph (a) of the definition primary of-
+fence in subsection 490.011(1) of the Criminal Code;
+(2) Section 2 of Form 54 of Part XXVIII of the Act
+is replaced by the following:
+2 You must subsequently report to the registration cen-
+tre referred to in section 7.1 of the Sex Offender Informa-
+tion Registration Act, whenever required under section
+4.1 or 4.3 of that Act, for a period of .................. years af-
+ter the day on which you were sentenced or found not
+criminally responsible on account of mental disorder for
+the offence (or if paragraph 490.02904(3)(c) or (d) of the
+Criminal Code applies, for life because you were convict-
+ed of or found not criminally responsible on account of
+mental disorder for an offence (or offences) that the At-
+torney General of the province, or the minister of justice
+of the territory, has identified as equivalent to (descrip-
+tion of offence(s)) under (applicable offence provision(s)
+of the Criminal Code), an offence (or offences) referred
+to in paragraph (a) of the definition primary offence in
+subsection 490.011(1) of the Criminal Code) or for any
+shorter period determined under subsection 490.02904(2)
+of the Criminal Code.
+(3) Form 54 of Part XXVIII of the Act is amended
+by adding the following after section 6:
+6.1 You have the right to apply to a court to vary the du-
+ration of the obligation to comply with the Sex Offender
+Information Registration Act if the obligation applies for
+life because you were convicted or found not criminally
+responsible on account of mental disorder for more than
+one offence, and you have the right to appeal the decision
+of that court.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Criminal Code
+Section  
+40
+
+Page 45 
+2004, c. 10
+Sex Offender Information
+Registration Act
+41 (1) Paragraphs 6(1)(a) and (b) of the Sex Of-
+fender Information Registration Act are re-
+placed by the following:
+(a) at least 14 days before the sex offender’s departure
+— of the dates of their departure and return and of ev-
+ery address or, if the address is unknown, every loca-
+tion at which they expect to stay in Canada or outside
+Canada — if they expect not to be at their main resi-
+dence or any of their secondary residences for a period
+of seven or more consecutive days;
+(b) within seven days after their departure — of the
+date of their return and of every address or, if the ad-
+dress is unknown, every location at which they are
+staying in Canada or outside Canada — if they decide,
+after departure, not to be at their main residence or
+any of their secondary residences for a period of seven
+or more consecutive days or if they have not given a
+notification required under paragraph (a); and
+(2) Paragraphs 6(1.01)(a) to (d) of the Act are re-
+placed by the following:
+(a) at least 14 days before the sex offender’s departure
+— of the dates of their departure and return and of ev-
+ery address or, if the address is unknown, every loca-
+tion at which they expect to stay in Canada — if they
+expect not to be at their main residence or any of their
+secondary residences for a period of seven or more
+consecutive days;
+(b) at least 14 days before their departure — of the
+dates of their departure and return and of every ad-
+dress or, if the address is unknown, every location at
+which they expect to stay outside Canada;
+(c) within seven days after their departure — of the
+date of their return and of every address or, if the ad-
+dress is unknown, every location at which they are
+staying in Canada — if they decide, after departure,
+not to be at their main residence or any of their sec-
+ondary residences for a period of seven or more con-
+secutive days or if they have not given a notification
+required under paragraph (a);
+(d) without delay, after their departure — of the date
+of their return and of every address or, if the address
+is unknown, every location at which they are staying
+outside Canada — if they decide, after departure, to
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Sex Offender Information Registration Act
+Section  
+41
+
+Page 46 
+extend their stay beyond the date of return that they
+indicated in the notification they gave under para-
+graph (b) or if they have not given a notification under
+paragraph (b); and
+(3) Section 6 of the Act is amended by adding the
+following after subsection (1.01):
+Exception
+(1.02) Despite paragraph (1)(a) or (1.01)(a) or (b), as the
+case may be, a sex offender who has a reasonable excuse
+for not complying with the requirement to give at least 14
+days’ notice shall notify a person who collects informa-
+tion at the registration centre referred to in section 7.1 as
+soon as feasible before their departure of the dates of
+their departure and return and of every address or, if the
+address is unknown, every location at which they expect
+to stay in Canada or outside Canada.
+42 Subsections 8.1(3) and (4) of the Act are re-
+placed by the following:
+Registration of information — exemption orders
+(3) A person who registers information for the Attorney
+General of a province, or the minister of justice of a terri-
+tory, may register in the database the fact that a person
+has applied in that jurisdiction for an exemption order
+under section 490.023, 490.02905, 490.029111 or 490.04 of
+the Criminal Code.
+Registration of information — exemption orders
+(4) When the Attorney General of a province, or the min-
+ister of justice of a territory, receives a notice referred to
+in 
+section 
+490.025 
+or 
+subsection 
+490.02907(1),
+490.029114(1) or 490.07(1) of the Criminal Code, a person
+who registers information for the Attorney General, or
+the minister of justice, shall register without delay in the
+database the fact that the court refused to make an ex-
+emption order under subsection 490.023(2), 490.02905(2),
+490.029111(2) or 490.04(5) of that Act or that the appeal
+court dismissed an appeal from such a decision or
+quashed an exemption order.
+43 (1) Subsection 15(1) of the Act is replaced by
+the following:
+Retention of information
+15 (1) Subject to subsections (2) and (3) and regulations
+made under paragraphs 19(3)(b) and (d), information
+that is registered in the database in accordance with this
+Act shall be kept in the database until 50 years have
+elapsed after the death of the sex offender to whom it re-
+lates.
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Sex Offender Information Registration Act
+Sections 41-43
+
+Page 47 
+(2) Subsection 15(2) of the Act is amended by
+striking out “or” at the end of paragraph (a), by
+adding “or” at the end of paragraph (b) and by
+adding the following after paragraph (b):
+(c) the person who is subject to the order is granted
+an exemption order under subsection 490.04(5) of the
+Criminal Code or on an appeal from a decision made
+under that subsection.
+(3) Paragraph 15(3)(c) of the Act is replaced by
+the following:
+(c) the person who is subject to the obligation is
+granted an exemption order under subsection
+490.023(2), 490.02905(2), 490.029111(2) or 490.04(5) of
+the Criminal Code or subsection 227.1(4) of the Na-
+tional Defence Act or on an appeal from a decision
+made under that subsection.
+44 (1) Paragraph 16(2)(b) of the Act is replaced
+by the following:
+(b) a member or employee of, or a person retained by,
+a police service in the province in which a sex offend-
+er’s main residence is located who consults the infor-
+mation to verify compliance by the sex offender with
+an order or with an obligation under section 490.019 or
+490.02901 of the Criminal Code, section 227.06 of the
+National Defence Act or section 36.1 of the Interna-
+tional Transfer of Offenders Act;
+(2) Paragraph 16(4)(c) of the Act is amended by
+adding the following after subparagraph (i):
+(i.1) to enable them to verify the sex offender’s
+compliance with section 5,
+(3) Paragraph 16(4)(c) of the Act is amended by
+striking out “or” at the end of subparagraph (ii),
+by adding “or” at the end of subparagraph (iii)
+and by adding the following after that subpara-
+graph:
+(iv) to enable them to obtain a warrant under sub-
+section 490.03121(1) of the Criminal Code and exe-
+cute the warrant;
+(4) Subsection 16(4) of the Act is amended by
+adding the following after paragraph (f):
+(f.1) unless the disclosure is to a prosecutor, judge or
+justice in a proceeding relating to an application for a
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Sex Offender Information Registration Act
+Sections 43-44
+
+Page 48 
+warrant referred to in subparagraph (c)(iv), and the
+information is relevant to the application;
+2004, c. 21
+International Transfer of
+Offenders Act
+45 Section 36.1 of the International Transfer of
+Offenders Act is replaced by the following:
+Obligation
+36.1 If the criminal offence identified under section 15
+or 36.3 is an offence referred to in paragraph (a) or (f) of
+the definition primary offence in subsection 490.011(1)
+of the Criminal Code, the person is required to comply
+with the Sex Offender Information Registration Act.
+46 (1) Paragraphs 36.2(2)(a) and (b) of the Act are
+replaced by the following:
+(a) subject to subsections (3) and (4), ends 10 years af-
+ter the day on which the sentence was imposed or the
+person was found not criminally responsible on ac-
+count of mental disorder if the maximum term of im-
+prisonment provided for in Canadian law for the
+equivalent criminal offence is two or five years;
+(b) subject to subsections (3) and (4), ends 20 years af-
+ter the day on which the sentence was imposed or the
+person was found not criminally responsible on ac-
+count of mental disorder if the maximum term of im-
+prisonment provided for in Canadian law for the
+equivalent criminal offence is 10 or 14 years; and
+(2) Subsections 36.2(3) to (6) of the Act are re-
+placed by the following:
+Duration — if more than one offence
+(3) The obligation applies for life if the person was con-
+victed of, or found not criminally responsible on account
+of mental disorder for, more than one offence in respect
+of which the equivalent criminal offence is an offence re-
+ferred to in paragraph (a) or (f) of the definition primary
+offence in subsection 490.011(1) of the Criminal Code.
+Duration — if previous obligation
+(4) The obligation applies for life if the person, before or
+after the coming into force of paragraphs (a) and (b),
+(a) was previously convicted of a primary offence, as
+defined in subsection 490.011(1) of the Criminal Code,
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Sex Offender Information Registration Act
+Sections 44-46
+
+Page 49 
+or previously convicted under section 130 of the Na-
+tional Defence Act in respect of such a primary of-
+fence; or
+(b) is or was subject to an order or obligation under
+this or another Act of Parliament to comply with the
+Sex Offender Information Registration Act.
+47 (1) The paragraph of Form 1 of the schedule
+to the Act that begins with “And because you”
+and ends with “490.011(1) of the Criminal Code” is
+replaced by the following:
+And because you were convicted of or found not crimi-
+nally responsible on account of mental disorder for (de-
+scription, date and location of offence(s)) that the Minis-
+ter has identified as being equivalent to (description of
+offence(s)) under (applicable provision(s) of the Crimi-
+nal Code), an offence (or offences) referred to in para-
+graph (a) or (f) of the definition primary offence in sub-
+section 490.011(1) of the Criminal Code;
+(2) Section 2 of Form 1 of the schedule to the Act
+is replaced by the following:
+2 You must subsequently report to the registration cen-
+tre referred to in section 7.1 of the Sex Offender Informa-
+tion Registration Act, whenever required under section
+4.1 or 4.3 of that Act, for a period of ......  years after the
+day on which you were sentenced or found not criminally
+responsible on account of mental disorder for the offence
+(or if paragraph 36.2(2)(c) or subsection 36.2(3) or (4) of
+the International Transfer of Offenders Act applies, for
+life because you were convicted of or found not criminal-
+ly responsible on account of mental disorder for an of-
+fence (or offences) that the Minister has identified as
+being equivalent to (description of offence(s)) under (ap-
+plicable offence provision(s) of the Criminal Code), an
+offence (or offences) referred to in paragraph (a) or (f) of
+the definition primary offence in subsection 490.011(1)
+of the Criminal Code).
+(3) Form 1 of the schedule to the Act is amended
+by adding the following after item 5:
+5.1 You have the right to apply to a court to exempt you
+from the obligation to comply with the Sex Offender In-
+formation Registration Act, and the right to appeal the
+decision of that court.
+5.2 You have the right to apply to a court to vary the du-
+ration of the obligation to comply with the Sex Offender
+Information Registration Act if the obligation applies for
+life because you were convicted or given a verdict of not
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+International Transfer of Offenders Act
+Sections 46-47
+
+Page 50 
+criminally responsible on account of mental disorder for
+more than one offence, and you have the right to appeal
+the decision of that court.
+Coordinating Amendments
+2015, c. 23
+48 (1) In this section, other Act means chapter 23
+of the Statutes of Canada, 2015.
+(2) On the first day on which both section 29 of
+the other Act and section 6 of this Act are in
+force, paragraph (a) of the definition sexual of-
+fence against a child in subsection 2(1) of the Act
+enacted by that section 29 is replaced by the fol-
+lowing:
+(a) a designated offence, as defined in subsection
+490.011(1) of the Criminal Code, that is committed
+against a person who is under 18 years of age, other
+than a secondary offence, as defined in that subsec-
+tion, for which the prosecutor has not, for the purpos-
+es of subsection 490.012(5) of that Act, established be-
+yond a reasonable doubt that the offender committed
+the offence with the intent to commit a primary of-
+fence, as defined in that subsection 490.011(1); or
+(3) If section 30 of the other Act comes into force
+before section 29 of this Act, then that section 29
+is deemed never to have come into force and is
+repealed.
+(4) If section 29 of this Act comes into force be-
+fore section 30 of the other Act, then that section
+30 is repealed.
+(5) If section 30 of the other Act comes into force
+on the same day as section 29 of this Act, then
+that section 29 is deemed never to have come into
+force and is repealed.
+(6) If section 31 of the other Act comes into force
+before section 30 of this Act, then that section 30
+is deemed never to have come into force and is
+repealed.
+(7) If section 30 of this Act comes into force be-
+fore section 31 of the other Act, then that section
+31 is repealed.
+(8) If section 31 of the other Act comes into force
+on the same day as section 30 of this Act, then
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+International Transfer of Offenders Act
+Sections 47-48
+
+Page 51 
+that section 30 is deemed never to have come into
+force and is repealed.
+Bill C-291
+48.1 (1) Subsections (2) to (4) apply if Bill C- 291,
+introduced in the 1st session of the 44th Parlia-
+ment and entitled An Act to amend the Criminal
+Code and to make consequential amendments to
+other Acts (child sexual abuse and exploitation
+material) (in this section referred to as the “oth-
+er Act”), receives royal assent.
+(2) If section 8 of the other Act comes into force
+before subsection 6(2) of this Act, then subpara-
+graph (a)(xi) of the definition primary offence in
+subsection 490.011(1) of the Criminal Code is re-
+placed by the following:
+(xi) section 163.1 (child sexual abuse and exploita-
+tion material),
+(3) If subsection 6(2) of this Act comes into force
+before section 8 of the other Act, then that sec-
+tion 8 is replaced by the following:
+8 Subparagraph (a)(xi) of the definition primary
+offence in subsection 490.011(1) of the Act is re-
+placed by the following:
+(xi) section 163.1 (child sexual abuse and exploita-
+tion material),
+(4) If section 8 of the other Act comes into force
+on the same day as subsection 6(2) of this Act,
+then that section 8 is deemed to have come into
+force before that subsection 6(2) and subsection
+(2) applies as a consequence.
+Coming into Force
+Order in council
+49 Section 35 comes into force on a day to be
+fixed by order of the Governor in Council.
+Published under authority of the Senate of Canada
+2021-2022-2023
+Chapter 28: An Act to amend the Criminal Code, the Sex Offender Information
+Registration Act and the International Transfer of Offenders Act
+Coordinating Amendments
+Sections 48-49
+
+Page 52 
+Available on the Senate of Canada website a
+Disponible sur le site Web du Sénat du Cana
+

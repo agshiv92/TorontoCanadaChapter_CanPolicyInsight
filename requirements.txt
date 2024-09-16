@@ -1,0 +1,7 @@
+pinecone
+pyyaml
+python-dotenv
+llama-index
+llama-index-vector-stores-pinecone
+llama-index-embeddings-huggingface
+llama-index-llms-groq
