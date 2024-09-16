@@ -3,7 +3,7 @@ name: Push to Hugging Face
 on:
   push:
     branches:
-      - master  # Trigger the workflow on push to the 'main' branch
+      - master  # Trigger the workflow on push to the 'master' branch
 
 jobs:
   push-to-huggingface:
@@ -18,15 +18,21 @@ jobs:
         sudo apt-get install -y git-lfs
         git lfs install
 
-    - name: Set up Hugging Face repository
+    - name: Set up Git Config and Hugging Face Repository
       run: |
         git config --global user.email "agshiv92@gmail.com"  # Use your GitHub email
-        git config --global user.name "Shivam"         # Use your GitHub name
-        git remote add hf https://huggingface.co/spaces/agshiv92/TorontoCanadaChapter_CanPolicyInsight  # Replace with your Hugging Face repo URL
-        git pull hf main  # Pull the latest from Hugging Face to avoid conflicts
+        git config --global user.name "Shivam"  # Use your GitHub name
+        git remote add hf https://huggingface.co/spaces/agshiv92/TorontoCanadaChapter_CanPolicyInsight  # Hugging Face repo URL
+        git pull hf main --rebase  # Rebase to handle conflicts (or use --merge)
+
+    - name: Track files with Git LFS (if necessary)
+      run: |
+        git lfs track "*.your_file_extension"  # If tracking specific file types
+        git add .gitattributes
+        git commit -m "Track files with LFS" || echo "No changes to commit"
 
     - name: Push to Hugging Face
       env:
-        HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}  # Use the Hugging Face token from GitHub secrets
       run: |
         git push hf main  # Push the changes to the Hugging Face repository
