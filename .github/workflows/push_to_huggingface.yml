@@ -22,7 +22,7 @@ jobs:
     - name: Set up Git Config and Hugging Face Repository
       run: |
         git config --global user.email "agshiv92@gmail.com"  # Use your GitHub email
-        git config --global user.name "Shivam"  # Use your GitHub name
+        git config --global user.name "agshiv92"  # Use your GitHub name
         git remote add hf https://huggingface.co/spaces/agshiv92/TorontoCanadaChapter_CanPolicyInsight  # Hugging Face repo URL
         git fetch hf  # Fetch the latest changes from Hugging Face
 
