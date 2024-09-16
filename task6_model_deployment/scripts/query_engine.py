@@ -8,6 +8,7 @@ from llama_index.core.response.pprint_utils import pprint_source_node
 from llama_index.core import Settings
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.groq import Groq
+
 # Load environment variables from the .env file
 load_dotenv()
 
