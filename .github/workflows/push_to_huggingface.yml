@@ -15,6 +15,7 @@ jobs:
 
     - name: Install Git LFS (Large File Storage)
       run: |
+        sudo apt-get update
         sudo apt-get install -y git-lfs
         git lfs install
 
@@ -23,16 +24,24 @@ jobs:
         git config --global user.email "agshiv92@gmail.com"  # Use your GitHub email
         git config --global user.name "Shivam"  # Use your GitHub name
         git remote add hf https://huggingface.co/spaces/agshiv92/TorontoCanadaChapter_CanPolicyInsight  # Hugging Face repo URL
-        git pull hf main --rebase  # Rebase to handle conflicts (or use --merge)
+        git fetch hf  # Fetch the latest changes from Hugging Face
+
+    - name: Handle merge conflicts and pull the latest from Hugging Face
+      run: |
+        git pull hf main --rebase || git pull hf main --merge  # Attempt rebase, fallback to merge in case of conflicts
 
     - name: Track files with Git LFS (if necessary)
       run: |
-        git lfs track "*.your_file_extension"  # If tracking specific file types
-        git add .gitattributes
-        git commit -m "Track files with LFS" || echo "No changes to commit"
+        # Track specific file types with Git LFS if needed
+        git lfs track "*.your_file_extension"  # Replace with specific file types like "*.png", "*.zip", etc.
+        git add .gitattributes || echo "No changes to track"
+        git commit -m "Track large files with Git LFS" || echo "No changes to commit"
 
     - name: Push to Hugging Face
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}  # Use the Hugging Face token from GitHub secrets
       run: |
-        git push hf main  # Push the changes to the Hugging Face repository
+        git push hf main --force-with-lease  # Force push to Hugging Face with safety to avoid overwriting any recent commits
+
+    - name: Push complete
+      run: echo "Pushed successfully to Hugging Face"
