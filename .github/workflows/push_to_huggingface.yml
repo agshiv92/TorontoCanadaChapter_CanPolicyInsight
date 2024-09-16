@@ -1,0 +1,32 @@
+name: Push to Hugging Face
+
+on:
+  push:
+    branches:
+      - main  # Trigger the workflow on push to the 'main' branch
+
+jobs:
+  push-to-huggingface:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Install Git LFS (Large File Storage)
+      run: |
+        sudo apt-get install -y git-lfs
+        git lfs install
+
+    - name: Set up Hugging Face repository
+      run: |
+        git config --global user.email "agshiv92@gmail.com"  # Use your GitHub email
+        git config --global user.name "Shivam"         # Use your GitHub name
+        git remote add hf https://huggingface.co/spaces/agshiv92/TorontoCanadaChapter_CanPolicyInsight  # Replace with your Hugging Face repo URL
+        git pull hf main  # Pull the latest from Hugging Face to avoid conflicts
+
+    - name: Push to Hugging Face
+      env:
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      run: |
+        git push hf main  # Push the changes to the Hugging Face repository
