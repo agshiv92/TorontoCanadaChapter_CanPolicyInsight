@@ -3,15 +3,16 @@ import os
 import sys
 from dotenv import load_dotenv
 
-from TorontoCanadaChapter_CanPolicyInsight.task6_model_deployment.scripts.query_engine import index_connection, initialize_retriever, index_retrieval, load_config
+from task6_model_deployment.scripts.query_engine import index_connection, initialize_retriever, index_retrieval, load_config
 # Load environment variables
 load_dotenv()
 
 # Add the scripts directory to the system path
 script_dir = os.path.dirname(os.path.abspath(__file__))
 base_dir = os.path.dirname(script_dir)
+print(base_dir)
 scripts_dir = os.path.join(base_dir, 'scripts')
-logo_path = os.path.join(base_dir, 'Canada Policy', 'TorontoCanadaChapter_CanPolicyInsight', 'task6_model_deployment', 'assets', 'logo.png')
+logo_path = os.path.join(base_dir,'TorontoCanadaChapter_CanPolicyInsight', 'task6_model_deployment', 'assets', 'logo.png')
 sys.path.append(scripts_dir)
 
 # Import functions from the query engine script
@@ -33,7 +34,7 @@ def main():
         st.title("Canada Policy Explorer")
 
     # Initialize Pinecone connection and retrieverC:\Users\agshi\Desktop\Omdena\Canada Policy\TorontoCanadaChapter_CanPolicyInsight\task6_model_deployment\configs
-    config_path = os.path.join(base_dir, 'Canada Policy','TorontoCanadaChapter_CanPolicyInsight','task6_model_deployment','configs','config.yaml')
+    config_path = os.path.join(base_dir,'TorontoCanadaChapter_CanPolicyInsight','task6_model_deployment','configs','config.yaml')
     config = load_config(config_path)
     pinecone_index = index_connection(config_path)
     retriever = initialize_retriever(pinecone_index)
