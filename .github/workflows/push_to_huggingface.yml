@@ -28,7 +28,13 @@ jobs:
 
     - name: Handle merge conflicts and pull the latest from Hugging Face
       run: |
-        git pull hf main --rebase || git pull hf main --merge  # Attempt rebase, fallback to merge in case of conflicts
+        # Try rebasing first, if that fails, fallback to a merge
+        git pull hf main --rebase || (git rebase --abort && git pull hf main --no-rebase)  # Rebase first, if it fails do a normal merge
+
+    - name: Resolve merge conflicts
+      run: |
+        git add .  # Add all resolved files
+        git commit -m "Resolve merge conflicts" || echo "No conflicts to resolve"
 
     - name: Track files with Git LFS (if necessary)
       run: |
