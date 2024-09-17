@@ -1,22 +1,26 @@
 name: Sync to Hugging Face hub
-
 on:
   push:
-    branches: [master]  # Run on every push to the main branch
+    branches: [main]
 
-  workflow_dispatch:  # Allows you to trigger the workflow manually from the Actions tab
+  # to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   sync-to-hub:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
         with:
-          fetch-depth: 0  # Fetch all history for all branches and tags
-          lfs: true       # Ensure that Git LFS files are fetched
-
-      - name: Push to Hugging Face
+          fetch-depth: 0
+          lfs: True
+      - name: LFS Install
+        run: git lfs install
+      - name: LFS Track
+        run: git lfs track *.jpg
+      - name: Checkout LFS objects
+        run: git lfs checkout
+      - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: git push https://agshiv92:$HF_TOKEN@huggingface.co/spaces/agshiv92/test2 main --force
