@@ -2,7 +2,7 @@ name: Sync to Hugging Face hub
 
 on:
   push:
-    branches: [master]  # Run on every push to the main branch
+    branches: [origin]  # Run on every push to the main branch
 
   workflow_dispatch:  # Allows you to trigger the workflow manually from the Actions tab
 
