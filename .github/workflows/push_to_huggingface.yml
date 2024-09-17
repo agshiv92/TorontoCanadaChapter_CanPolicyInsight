@@ -20,7 +20,7 @@ jobs:
       run: |
         git config --global user.email "agshiv92@gmail.com"  # Use your GitHub email
         git config --global user.name "agshiv92"  # Use your GitHub name
-        git remote add hf https://huggingface.co/spaces/agshiv92/TorontoCanadaChapter_CanPolicyInsight  # Hugging Face repo URL
+        git remote add space https://agshiv92:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/agshiv92/TorontoCanadaChapter_CanPolicyInsight  # Hugging Face repo URL
         git fetch hf  # Fetch the latest changes from Hugging Face
     - name: Handle merge conflicts and pull the latest from Hugging Face
       run: |
