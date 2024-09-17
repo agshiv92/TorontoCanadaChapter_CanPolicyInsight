@@ -19,7 +19,7 @@ jobs:
       - name: Push to Hugging Face
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://agshiv92:$HF_TOKEN@huggingface.co/spaces/agshiv92/End-to-End-Deployment main --force
+        run: git push https://agshiv92:$HF_TOKEN@huggingface.co/spaces/agshiv92/End-to-End-Deployment master:main --force
 
   check-large-files:
     runs-on: ubuntu-latest
