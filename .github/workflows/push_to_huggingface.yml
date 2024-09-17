@@ -40,6 +40,6 @@ jobs:
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}  # Use the Hugging Face token from GitHub secrets
       run: |
-        git push hf main --force-with-lease  # Force push to Hugging Face with safety to avoid overwriting any recent commits
+        git push hf master --force-with-lease  # Force push to Hugging Face with safety to avoid overwriting any recent commits
     - name: Push complete
       run: echo "Pushed successfully to Hugging Face"
