@@ -19,4 +19,4 @@ jobs:
       - name: Push to Hugging Face
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://agshiv92:$HF_TOKEN@huggingface.co/spaces/agshiv92/test2 origin --force
+        run: git push https://agshiv92:$HF_TOKEN@huggingface.co/spaces/agshiv92/test2 main --force
