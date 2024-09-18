@@ -1,0 +1,22 @@
+QA_PROMPT_TMPL: |
+  Context information is below.
+  ---------------------
+  {context_str}
+  ---------------------
+  Given the context information and not prior knowledge, answer the question. If the answer is not in the context, inform the user that you can't answer the question - DO NOT MAKE UP AN ANSWER.
+  Question: {query_str}
+  Answer:
+
+
+TREE_SUMMARIZE_PROMPT_TMPL: |
+  Context information from multiple sources is below. Each source may or may not have 
+  a relevance score attached to it.
+  ---------------------
+  {context_str}
+  ---------------------
+  Given the information from multiple sources and their associated relevance
+  scores (if provided) and not prior knowledge, answer the question. If
+  the answer is not in the context, inform the user that you can't answer
+  the question.
+  Question: {query_str}
+  Answer:

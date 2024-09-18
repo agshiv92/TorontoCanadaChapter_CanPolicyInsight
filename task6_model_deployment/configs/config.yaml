@@ -3,6 +3,7 @@ pinecone:
   host: 'https://quickstart2-oqohknh.svc.aped-4627-b74a.pinecone.io'
   port: 8000
   index_name: canada-policy-index
+  summary_index_name: canada-policy-summary-index
   environment: 'us-east-1'
   dimension: 1024
   metric: 'cosine'
@@ -10,7 +11,7 @@ pinecone:
   region: 'us-east-1'
 model:
   model_type: Groq
-  model_name: "llama-3.1-8b-instant"
+  model_name: "llama3-8b-8192"
   temperature: 0.7  # Control the randomness of model outputs
   max_tokens: 150 
 embeddings:

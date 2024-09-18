@@ -44,7 +44,33 @@ def creation_of_vector_database():
                 region=region  # Specify your preferred region
             )
         )
+def creation_of_summary_database():
+    # Load the configuration from a YAML file
+    config = load_config(config_path)
 
+    # Initialize the Pinecone client
+    pc = Pinecone(
+        api_key=os.getenv('PINECONE_API_KEY'))  # Ensure your API key is set in the environment variables
+
+    # Connect to the Pinecone index
+    index_name = config['pinecone']['summary_index_name']
+    dimension = config['pinecone']['dimension']
+    metric = config['pinecone']['metric']
+    # file_path = config['file_location']['file_path']
+    cloud = config['pinecone']['cloud']
+    region = config['pinecone']['region']
+    
+    if index_name not in pc.list_indexes().names():
+        pc.create_index(
+            name=index_name,
+            dimension=dimension,
+            metric=metric,  
+            spec=ServerlessSpec(
+                cloud=cloud,  # Specify your preferred cloud provider
+                region=region  # Specify your preferred region
+            )
+        )
 if __name__ == "__main__":
     creation_of_vector_database()
+    creation_of_summary_database()
 

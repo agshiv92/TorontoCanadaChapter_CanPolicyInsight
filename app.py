@@ -36,15 +36,15 @@ def main():
     # Initialize Pinecone connection and retrieverC:\Users\agshi\Desktop\Omdena\Canada Policy\TorontoCanadaChapter_CanPolicyInsight\task6_model_deployment\configs
     config_path = os.path.join(base_dir,'TorontoCanadaChapter_CanPolicyInsight','task6_model_deployment','configs','config.yaml')
     config = load_config(config_path)
-    pinecone_index = index_connection(config_path)
-    retriever = initialize_retriever(pinecone_index)
+    pinecone_index,summary_index = index_connection(config_path)
+    retriever,summary_retriever = initialize_retriever(pinecone_index,summary_index)
     st.write("Welcome to the Canada Policy Navigator. Explore policy insights and more.")
     # User input for query
     query_text = st.text_input("Enter your query:", "")
 
     if st.button("Submit"):
         if query_text:
-            response = index_retrieval(retriever, query_text)
+            response = index_retrieval(retriever, summary_retriever, query_text)
             st.write(response.response) 
         else:
             st.warning("Please enter a query.")
