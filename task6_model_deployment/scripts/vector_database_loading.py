@@ -102,7 +102,6 @@ def load_chunks_into_pinecone(documents):
     print("Data has been successfully loaded into the Pinecone index!")
     
     return index,summary_index_from_documents
-# Example usage
 if __name__ == "__main__":
 
     # Step 1: Chunk the documents
